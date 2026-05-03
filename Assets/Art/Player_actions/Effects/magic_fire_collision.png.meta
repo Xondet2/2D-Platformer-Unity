@@ -1,0 +1,2548 @@
+fileFormatVersion: 2
+guid: 9ef10a74d4f866864abe1f7bc0be002d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2708132071288205146
+    second: magic_fire_collision_0
+  - first:
+      213: 2289710651394010580
+    second: magic_fire_collision_1
+  - first:
+      213: 1272552447855145499
+    second: magic_fire_collision_2
+  - first:
+      213: 4784060893154674518
+    second: magic_fire_collision_3
+  - first:
+      213: 3982906035093012908
+    second: magic_fire_collision_4
+  - first:
+      213: -8397073437510801587
+    second: magic_fire_collision_5
+  - first:
+      213: -1642334957026709110
+    second: magic_fire_collision_6
+  - first:
+      213: -78706873237264028
+    second: magic_fire_collision_7
+  - first:
+      213: 582259900173009417
+    second: magic_fire_collision_8
+  - first:
+      213: -7541312074917129165
+    second: magic_fire_collision_9
+  - first:
+      213: 7178609117537662319
+    second: magic_fire_collision_10
+  - first:
+      213: -2955769715558152982
+    second: magic_fire_collision_11
+  - first:
+      213: -1909082645842830599
+    second: magic_fire_collision_12
+  - first:
+      213: -7218770874830093138
+    second: magic_fire_collision_13
+  - first:
+      213: 6785866684403523939
+    second: magic_fire_collision_14
+  - first:
+      213: -4656255708995295779
+    second: magic_fire_collision_15
+  - first:
+      213: -2191051114558510291
+    second: magic_fire_collision_16
+  - first:
+      213: 4303203586534962545
+    second: magic_fire_collision_17
+  - first:
+      213: -2832381132600536092
+    second: magic_fire_collision_18
+  - first:
+      213: -2490181159698404834
+    second: magic_fire_collision_19
+  - first:
+      213: 3152621860781978042
+    second: magic_fire_collision_20
+  - first:
+      213: 1721772770340630975
+    second: magic_fire_collision_21
+  - first:
+      213: 5286992871019426997
+    second: magic_fire_collision_22
+  - first:
+      213: 4398393741288343874
+    second: magic_fire_collision_23
+  - first:
+      213: -9180654212208662103
+    second: magic_fire_collision_24
+  - first:
+      213: 6675936113664312088
+    second: magic_fire_collision_25
+  - first:
+      213: -6418517758160967873
+    second: magic_fire_collision_26
+  - first:
+      213: 7968834977248761540
+    second: magic_fire_collision_27
+  - first:
+      213: 4006628316488742749
+    second: magic_fire_collision_28
+  - first:
+      213: -5694050164675938687
+    second: magic_fire_collision_29
+  - first:
+      213: -218611883873147329
+    second: magic_fire_collision_30
+  - first:
+      213: -1447219691019275282
+    second: magic_fire_collision_31
+  - first:
+      213: 560675480759788735
+    second: magic_fire_collision_32
+  - first:
+      213: -7698525018983476331
+    second: magic_fire_collision_33
+  - first:
+      213: 7342338482459146647
+    second: magic_fire_collision_34
+  - first:
+      213: -7307656270385500516
+    second: magic_fire_collision_35
+  - first:
+      213: 1246980188008760685
+    second: magic_fire_collision_36
+  - first:
+      213: -3377632862686014197
+    second: magic_fire_collision_37
+  - first:
+      213: -1516688148454597528
+    second: magic_fire_collision_38
+  - first:
+      213: -4868184667455822189
+    second: magic_fire_collision_39
+  - first:
+      213: -6648112626177187710
+    second: magic_fire_collision_40
+  - first:
+      213: -4420319037120391807
+    second: magic_fire_collision_41
+  - first:
+      213: 4908360648508960327
+    second: magic_fire_collision_42
+  - first:
+      213: 3195385455344040891
+    second: magic_fire_collision_43
+  - first:
+      213: -8559709926410636853
+    second: magic_fire_collision_44
+  - first:
+      213: -8425989338274460918
+    second: magic_fire_collision_45
+  - first:
+      213: -4194019598272478402
+    second: magic_fire_collision_46
+  - first:
+      213: -1760735088544067203
+    second: magic_fire_collision_47
+  - first:
+      213: -5419427878382765777
+    second: magic_fire_collision_48
+  - first:
+      213: 2164091752679052087
+    second: magic_fire_collision_49
+  - first:
+      213: 2295626976918484664
+    second: magic_fire_collision_50
+  - first:
+      213: 643637246790305968
+    second: magic_fire_collision_51
+  - first:
+      213: 915648185119247365
+    second: magic_fire_collision_52
+  - first:
+      213: -1293204050919888783
+    second: magic_fire_collision_53
+  - first:
+      213: 6140625978839152397
+    second: magic_fire_collision_54
+  - first:
+      213: -327150512245688548
+    second: magic_fire_collision_55
+  - first:
+      213: 1019634554007347062
+    second: magic_fire_collision_56
+  - first:
+      213: -975325627899767306
+    second: magic_fire_collision_57
+  - first:
+      213: 4431257191753064320
+    second: magic_fire_collision_58
+  - first:
+      213: 3237496043832110112
+    second: magic_fire_collision_59
+  - first:
+      213: -2032794367509845106
+    second: magic_fire_collision_60
+  - first:
+      213: -654547416802667273
+    second: magic_fire_collision_61
+  - first:
+      213: -5232662997152347570
+    second: magic_fire_collision_62
+  - first:
+      213: -7909342474351886353
+    second: magic_fire_collision_63
+  - first:
+      213: 6251702754370162794
+    second: magic_fire_collision_64
+  - first:
+      213: -6332699495475387500
+    second: magic_fire_collision_65
+  - first:
+      213: 1936826539965715480
+    second: magic_fire_collision_66
+  - first:
+      213: -8763313112337788153
+    second: magic_fire_collision_67
+  - first:
+      213: 1442926555980714904
+    second: magic_fire_collision_68
+  - first:
+      213: 7412231178690635207
+    second: magic_fire_collision_69
+  - first:
+      213: -586043624547468601
+    second: magic_fire_collision_70
+  - first:
+      213: 7958688120728899336
+    second: magic_fire_collision_71
+  - first:
+      213: 7245172903427349942
+    second: magic_fire_collision_72
+  - first:
+      213: 7423719130469154720
+    second: magic_fire_collision_73
+  - first:
+      213: 3113644562576673433
+    second: magic_fire_collision_74
+  - first:
+      213: -3192591955817939717
+    second: magic_fire_collision_75
+  - first:
+      213: -9032235776139733477
+    second: magic_fire_collision_76
+  - first:
+      213: 2017142826464879649
+    second: magic_fire_collision_77
+  - first:
+      213: 7745966578785566549
+    second: magic_fire_collision_78
+  - first:
+      213: -6184993576739284300
+    second: magic_fire_collision_79
+  - first:
+      213: -1937255348347282842
+    second: magic_fire_collision_80
+  - first:
+      213: 4251281472272277061
+    second: magic_fire_collision_81
+  - first:
+      213: 6006664664550237359
+    second: magic_fire_collision_82
+  - first:
+      213: 5449831450770525315
+    second: magic_fire_collision_83
+  - first:
+      213: -849640577197752703
+    second: magic_fire_collision_84
+  - first:
+      213: -2452654710028403766
+    second: magic_fire_collision_85
+  - first:
+      213: -3497704286793617576
+    second: magic_fire_collision_86
+  - first:
+      213: -8707044549464038597
+    second: magic_fire_collision_87
+  - first:
+      213: 7951084718794816193
+    second: magic_fire_collision_88
+  - first:
+      213: 1343006869327848299
+    second: magic_fire_collision_89
+  - first:
+      213: -6983692842843998273
+    second: magic_fire_collision_90
+  - first:
+      213: 7990557962085549529
+    second: magic_fire_collision_91
+  - first:
+      213: 1027611962810271228
+    second: magic_fire_collision_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magic_fire_collision_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 138
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0160eba38ca6ad0800000000000000
+      internalID: -2708132071288205146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 116
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dda4ceb4bfa6cf10800000000000000
+      internalID: 2289710651394010580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 114
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12b57485b309a110800000000000000
+      internalID: 1272552447855145499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 119
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65782580906646240800000000000000
+      internalID: 4784060893154674518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 121
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca18a73cfef164730800000000000000
+      internalID: 3982906035093012908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 125
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47ec4cb23a977b80800000000000000
+      internalID: -8397073437510801587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_6
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 120
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81773cde014539e0800000000000000
+      internalID: -1642334957026709110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_7
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 60
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469af4b048068eef0800000000000000
+      internalID: -78706873237264028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_8
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 43
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90244c45b4a941800800000000000000
+      internalID: 582259900173009417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_9
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334533a9f90e75790800000000000000
+      internalID: -7541312074917129165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 109
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65763065fa8f9360800000000000000
+      internalID: 7178609117537662319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 87
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae48c42aa1ffaf6d0800000000000000
+      internalID: -2955769715558152982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_12
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 70
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fadca7c2739185e0800000000000000
+      internalID: -1909082645842830599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 114
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea401d2d226c1db90800000000000000
+      internalID: -7218770874830093138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_14
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 98
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361a701ebcd3c2e50800000000000000
+      internalID: 6785866684403523939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 88
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd563f14a18a16fb0800000000000000
+      internalID: -4656255708995295779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 94
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b2408be92d791e0800000000000000
+      internalID: -2191051114558510291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_17
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 81
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1757a93dcdc08bb30800000000000000
+      internalID: 4303203586534962545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_18
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 88
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e393d2dd5c51b8d0800000000000000
+      internalID: -2832381132600536092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 95
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a6ec5cd69117dd0800000000000000
+      internalID: -2490181159698404834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_20
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 95
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab17a0b01ec50cb20800000000000000
+      internalID: 3152621860781978042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 99
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1f7185637f4e710800000000000000
+      internalID: 1721772770340630975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_22
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 90
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4b227210c2f5940800000000000000
+      internalID: 5286992871019426997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 94
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2490bc3ddcb3a0d30800000000000000
+      internalID: 4398393741288343874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_24
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 89
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9eb9b92a3c79080800000000000000
+      internalID: -9180654212208662103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 88
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813c9265680b5ac50800000000000000
+      internalID: 6675936113664312088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_26
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 78
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3767401b18dce6a0800000000000000
+      internalID: -6418517758160967873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 87
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6de9ce03df69e60800000000000000
+      internalID: 7968834977248761540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_28
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57355fc9376a9730800000000000000
+      internalID: 4006628316488742749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_29
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 71
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1867c392b8baaf0b0800000000000000
+      internalID: -5694050164675938687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_30
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36ef0e56a557fcf0800000000000000
+      internalID: -218611883873147329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_31
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 87
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee378d4db517aebe0800000000000000
+      internalID: -1447219691019275282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_32
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 86
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb465f0116be7c700800000000000000
+      internalID: 560675480759788735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_33
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 82
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5935805a848592590800000000000000
+      internalID: -7698525018983476331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 70
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79978abc2f935e560800000000000000
+      internalID: 7342338482459146647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_35
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 75
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e2407f65df59a90800000000000000
+      internalID: -7307656270385500516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_36
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 65
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65463ccfd92e4110800000000000000
+      internalID: 1246980188008760685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_37
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 75
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b051aed8ecc3021d0800000000000000
+      internalID: -3377632862686014197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_38
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 64
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c915c2a24a3fae0800000000000000
+      internalID: -1516688148454597528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_39
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 74
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396ea4376dbb07cb0800000000000000
+      internalID: -4868184667455822189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_40
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 68
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2806be92ac82db3a0800000000000000
+      internalID: -6648112626177187710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_41
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 78
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185da8e614fd7a2c0800000000000000
+      internalID: -4420319037120391807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_42
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 79
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ee1e311000e1440800000000000000
+      internalID: 4908360648508960327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_43
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb3b3a442a485c20800000000000000
+      internalID: 3195385455344040891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_44
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 43
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1b8e75c2dc53980800000000000000
+      internalID: -8559709926410636853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_45
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 60
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b0ce2f65fd01b80800000000000000
+      internalID: -8425989338274460918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_46
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 56
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3341ff6569dbc5c0800000000000000
+      internalID: -4194019598272478402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_47
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 60
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71d3c704cc9097e0800000000000000
+      internalID: -1760735088544067203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_48
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 47
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f297527de035ac4b0800000000000000
+      internalID: -5419427878382765777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_49
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 60
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73399c3bbf5680e10800000000000000
+      internalID: 2164091752679052087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_50
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 55
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6b700a294bbdf10800000000000000
+      internalID: 2295626976918484664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_51
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 54
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b885237aa8aee800800000000000000
+      internalID: 643637246790305968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_52
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c834d4c2905bc00800000000000000
+      internalID: 915648185119247365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178e2d274cd9d0ee0800000000000000
+      internalID: -1293204050919888783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_54
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 40
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d073e371bc2e73550800000000000000
+      internalID: 6140625978839152397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_55
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 41
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c173289a75ab57bf0800000000000000
+      internalID: -327150512245688548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_56
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 40
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f52508938762e00800000000000000
+      internalID: 1019634554007347062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_57
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 35
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f513b84282f672f0800000000000000
+      internalID: -975325627899767306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_58
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 45
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f16d620fcfe7d30800000000000000
+      internalID: 4431257191753064320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_59
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 41
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c6856bf75edec20800000000000000
+      internalID: 3237496043832110112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_60
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 50
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b292ffa401ac3e0800000000000000
+      internalID: -2032794367509845106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_61
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 46
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4d3d4a7949ae6f0800000000000000
+      internalID: -654547416802667273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_62
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 46
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a47695ab8d167b0800000000000000
+      internalID: -5232662997152347570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_63
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 43
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefb851dcee5c3290800000000000000
+      internalID: -7909342474351886353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_64
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 35
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60909b388282c650800000000000000
+      internalID: 6251702754370162794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_65
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 26
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493e4e66c5bbd18a0800000000000000
+      internalID: -6332699495475387500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_66
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8149432f97df0ea10800000000000000
+      internalID: 1936826539965715480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 31
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70355938725726680800000000000000
+      internalID: -8763313112337788153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_68
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 27
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8935536ce0e460410800000000000000
+      internalID: 1442926555980714904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_69
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 34
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c52eee3cf88dd660800000000000000
+      internalID: 7412231178690635207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_70
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 38
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca37ffad64fdd7f0800000000000000
+      internalID: -586043624547468601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_71
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 32
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fca2acda0f27e60800000000000000
+      internalID: 7958688120728899336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_72
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 34
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd921d7e560c8460800000000000000
+      internalID: 7245172903427349942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_73
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 39
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afb2e37739560760800000000000000
+      internalID: 7423719130469154720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_74
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a853d9b33e53b20800000000000000
+      internalID: 3113644562576673433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_75
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 20
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcb3b00882a1b3d0800000000000000
+      internalID: -3192591955817939717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_76
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 20
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16dd9b9a6d07a280800000000000000
+      internalID: -9032235776139733477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_77
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 17
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124aaa0a6b45efb10800000000000000
+      internalID: 2017142826464879649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_78
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 17
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fbf8240933f7b60800000000000000
+      internalID: 7745966578785566549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_79
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 21
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bad1688c1d7a2aa0800000000000000
+      internalID: -6184993576739284300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_80
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 24
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ad882568c7d15e0800000000000000
+      internalID: -1937255348347282842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_81
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 30
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e1dfa89f59ffa30800000000000000
+      internalID: 4251281472272277061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_82
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 28
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4686f00b5fb5350800000000000000
+      internalID: 6006664664550237359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_83
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 25
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ccdec74d0b1ab40800000000000000
+      internalID: 5449831450770525315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_84
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 22
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ebe5985687534f0800000000000000
+      internalID: -849640577197752703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_85
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 16
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb7114398b66fdd0800000000000000
+      internalID: -2452654710028403766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_86
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 21
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f2e489b78a57fc0800000000000000
+      internalID: -3497704286793617576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_87
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 25
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33e1b93d1d5a2780800000000000000
+      internalID: -8707044549464038597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_88
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca3dc2dc6de75e60800000000000000
+      internalID: 7951084718794816193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_89
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 14
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b632231d1a153a210800000000000000
+      internalID: 1343006869327848299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_90
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 18
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb778d15c50f41f90800000000000000
+      internalID: -6983692842843998273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_91
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 5
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d54747712a24ee60800000000000000
+      internalID: 7990557962085549529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_collision_92
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf58f3ab2afc24e00800000000000000
+      internalID: 1027611962810271228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      magic_fire_collision_0: -2708132071288205146
+      magic_fire_collision_1: 2289710651394010580
+      magic_fire_collision_10: 7178609117537662319
+      magic_fire_collision_11: -2955769715558152982
+      magic_fire_collision_12: -1909082645842830599
+      magic_fire_collision_13: -7218770874830093138
+      magic_fire_collision_14: 6785866684403523939
+      magic_fire_collision_15: -4656255708995295779
+      magic_fire_collision_16: -2191051114558510291
+      magic_fire_collision_17: 4303203586534962545
+      magic_fire_collision_18: -2832381132600536092
+      magic_fire_collision_19: -2490181159698404834
+      magic_fire_collision_2: 1272552447855145499
+      magic_fire_collision_20: 3152621860781978042
+      magic_fire_collision_21: 1721772770340630975
+      magic_fire_collision_22: 5286992871019426997
+      magic_fire_collision_23: 4398393741288343874
+      magic_fire_collision_24: -9180654212208662103
+      magic_fire_collision_25: 6675936113664312088
+      magic_fire_collision_26: -6418517758160967873
+      magic_fire_collision_27: 7968834977248761540
+      magic_fire_collision_28: 4006628316488742749
+      magic_fire_collision_29: -5694050164675938687
+      magic_fire_collision_3: 4784060893154674518
+      magic_fire_collision_30: -218611883873147329
+      magic_fire_collision_31: -1447219691019275282
+      magic_fire_collision_32: 560675480759788735
+      magic_fire_collision_33: -7698525018983476331
+      magic_fire_collision_34: 7342338482459146647
+      magic_fire_collision_35: -7307656270385500516
+      magic_fire_collision_36: 1246980188008760685
+      magic_fire_collision_37: -3377632862686014197
+      magic_fire_collision_38: -1516688148454597528
+      magic_fire_collision_39: -4868184667455822189
+      magic_fire_collision_4: 3982906035093012908
+      magic_fire_collision_40: -6648112626177187710
+      magic_fire_collision_41: -4420319037120391807
+      magic_fire_collision_42: 4908360648508960327
+      magic_fire_collision_43: 3195385455344040891
+      magic_fire_collision_44: -8559709926410636853
+      magic_fire_collision_45: -8425989338274460918
+      magic_fire_collision_46: -4194019598272478402
+      magic_fire_collision_47: -1760735088544067203
+      magic_fire_collision_48: -5419427878382765777
+      magic_fire_collision_49: 2164091752679052087
+      magic_fire_collision_5: -8397073437510801587
+      magic_fire_collision_50: 2295626976918484664
+      magic_fire_collision_51: 643637246790305968
+      magic_fire_collision_52: 915648185119247365
+      magic_fire_collision_53: -1293204050919888783
+      magic_fire_collision_54: 6140625978839152397
+      magic_fire_collision_55: -327150512245688548
+      magic_fire_collision_56: 1019634554007347062
+      magic_fire_collision_57: -975325627899767306
+      magic_fire_collision_58: 4431257191753064320
+      magic_fire_collision_59: 3237496043832110112
+      magic_fire_collision_6: -1642334957026709110
+      magic_fire_collision_60: -2032794367509845106
+      magic_fire_collision_61: -654547416802667273
+      magic_fire_collision_62: -5232662997152347570
+      magic_fire_collision_63: -7909342474351886353
+      magic_fire_collision_64: 6251702754370162794
+      magic_fire_collision_65: -6332699495475387500
+      magic_fire_collision_66: 1936826539965715480
+      magic_fire_collision_67: -8763313112337788153
+      magic_fire_collision_68: 1442926555980714904
+      magic_fire_collision_69: 7412231178690635207
+      magic_fire_collision_7: -78706873237264028
+      magic_fire_collision_70: -586043624547468601
+      magic_fire_collision_71: 7958688120728899336
+      magic_fire_collision_72: 7245172903427349942
+      magic_fire_collision_73: 7423719130469154720
+      magic_fire_collision_74: 3113644562576673433
+      magic_fire_collision_75: -3192591955817939717
+      magic_fire_collision_76: -9032235776139733477
+      magic_fire_collision_77: 2017142826464879649
+      magic_fire_collision_78: 7745966578785566549
+      magic_fire_collision_79: -6184993576739284300
+      magic_fire_collision_8: 582259900173009417
+      magic_fire_collision_80: -1937255348347282842
+      magic_fire_collision_81: 4251281472272277061
+      magic_fire_collision_82: 6006664664550237359
+      magic_fire_collision_83: 5449831450770525315
+      magic_fire_collision_84: -849640577197752703
+      magic_fire_collision_85: -2452654710028403766
+      magic_fire_collision_86: -3497704286793617576
+      magic_fire_collision_87: -8707044549464038597
+      magic_fire_collision_88: 7951084718794816193
+      magic_fire_collision_89: 1343006869327848299
+      magic_fire_collision_9: -7541312074917129165
+      magic_fire_collision_90: -6983692842843998273
+      magic_fire_collision_91: 7990557962085549529
+      magic_fire_collision_92: 1027611962810271228
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

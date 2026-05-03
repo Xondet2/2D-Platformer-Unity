@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: f7ae474a129702c2481004fd41224844
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8632312107991061248
+    second: magic_fire_0
+  - first:
+      213: -5573086874974412088
+    second: magic_fire_1
+  - first:
+      213: -5464741618192676419
+    second: magic_fire_2
+  - first:
+      213: -8974441377236462862
+    second: magic_fire_3
+  - first:
+      213: -4625184384179621751
+    second: magic_fire_4
+  - first:
+      213: -6942954738067174982
+    second: magic_fire_5
+  - first:
+      213: 1186087692390829169
+    second: magic_fire_6
+  - first:
+      213: -6645850126320789312
+    second: magic_fire_7
+  - first:
+      213: 3653386883695852329
+    second: magic_fire_8
+  - first:
+      213: 2008122124439931293
+    second: magic_fire_9
+  - first:
+      213: -5490591930757313177
+    second: magic_fire_10
+  - first:
+      213: 882931773450886388
+    second: magic_fire_11
+  - first:
+      213: -1220443617904201821
+    second: magic_fire_12
+  - first:
+      213: -6061004579729946273
+    second: magic_fire_13
+  - first:
+      213: 6540040989921709440
+    second: magic_fire_14
+  - first:
+      213: 2654319001613354871
+    second: magic_fire_15
+  - first:
+      213: -6753028174598421723
+    second: magic_fire_16
+  - first:
+      213: 5474354914057882446
+    second: magic_fire_17
+  - first:
+      213: 92016433877709035
+    second: magic_fire_18
+  - first:
+      213: -5377729212035529774
+    second: magic_fire_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magic_fire_0
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 12
+        width: 135
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0035c1350222cc770800000000000000
+      internalID: 8632312107991061248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_1
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 124
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c222c2c30b68a2b0800000000000000
+      internalID: -5573086874974412088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_2
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 129
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db90552a3765924b0800000000000000
+      internalID: -5464741618192676419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_3
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 0
+        width: 106
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2d044bd11647380800000000000000
+      internalID: -8974441377236462862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 133
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9803a40de4b00dfb0800000000000000
+      internalID: -4625184384179621751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_5
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 139
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab904e9737ba5af90800000000000000
+      internalID: -6942954738067174982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_6
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 18
+        width: 159
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c0b69d874d57010800000000000000
+      internalID: 1186087692390829169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_7
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 116
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c81a26758235c3a0800000000000000
+      internalID: -6645850126320789312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 59
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b33c5a30073b230800000000000000
+      internalID: 3653386883695852329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 75
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9948d4ce684edb10800000000000000
+      internalID: 2008122124439931293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 77
+        width: 64
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d8598babf7dc3b0800000000000000
+      internalID: -5490591930757313177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 94
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc127d15cdc04c00800000000000000
+      internalID: 882931773450886388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 58
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af6d66eefc101fe0800000000000000
+      internalID: -1220443617904201821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 84
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f594e23827cf2eba0800000000000000
+      internalID: -6061004579729946273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 77
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d07c431a4e2ca50800000000000000
+      internalID: 6540040989921709440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_15
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 50
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777cbbb911906d420800000000000000
+      internalID: 2654319001613354871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_16
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 59
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5234bde77ac6842a0800000000000000
+      internalID: -6753028174598421723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_17
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 63
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b85da3ac0d8fb40800000000000000
+      internalID: 5474354914057882446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_18
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 31
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be077c68578e64100800000000000000
+      internalID: 92016433877709035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_fire_19
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 30
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3816a26c77e55b0800000000000000
+      internalID: -5377729212035529774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      magic_fire_0: 8632312107991061248
+      magic_fire_1: -5573086874974412088
+      magic_fire_10: -5490591930757313177
+      magic_fire_11: 882931773450886388
+      magic_fire_12: -1220443617904201821
+      magic_fire_13: -6061004579729946273
+      magic_fire_14: 6540040989921709440
+      magic_fire_15: 2654319001613354871
+      magic_fire_16: -6753028174598421723
+      magic_fire_17: 5474354914057882446
+      magic_fire_18: 92016433877709035
+      magic_fire_19: -5377729212035529774
+      magic_fire_2: -5464741618192676419
+      magic_fire_3: -8974441377236462862
+      magic_fire_4: -4625184384179621751
+      magic_fire_5: -6942954738067174982
+      magic_fire_6: 1186087692390829169
+      magic_fire_7: -6645850126320789312
+      magic_fire_8: 3653386883695852329
+      magic_fire_9: 2008122124439931293
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
