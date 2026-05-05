@@ -1,0 +1,4134 @@
+fileFormatVersion: 2
+guid: 57185b6c9800b1043a6bd6fdc4ddc67c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4784953888913132239
+    second: zorra humana_0
+  - first:
+      213: -6441349158049859154
+    second: zorra humana_1
+  - first:
+      213: -9175158120308557387
+    second: zorra humana_2
+  - first:
+      213: -5780588594142968038
+    second: zorra humana_3
+  - first:
+      213: -1605766282010035417
+    second: zorra humana_4
+  - first:
+      213: -7058044052491915239
+    second: zorra humana_5
+  - first:
+      213: 567159606889657783
+    second: zorra humana_6
+  - first:
+      213: 8599349216933247227
+    second: zorra humana_7
+  - first:
+      213: 7995147683374097157
+    second: zorra humana_8
+  - first:
+      213: -1032068714882212778
+    second: zorra humana_9
+  - first:
+      213: 3017268227433275248
+    second: zorra humana_10
+  - first:
+      213: 3516394235863931321
+    second: zorra humana_11
+  - first:
+      213: 3257021488038962078
+    second: zorra humana_12
+  - first:
+      213: 4269105056336226538
+    second: zorra humana_13
+  - first:
+      213: -1851070681061392761
+    second: zorra humana_14
+  - first:
+      213: 7523215174857517539
+    second: zorra humana_15
+  - first:
+      213: -3013806238236907721
+    second: zorra humana_16
+  - first:
+      213: 1317499194837698703
+    second: zorra humana_17
+  - first:
+      213: 106120114679862702
+    second: zorra humana_18
+  - first:
+      213: 7024181406899374209
+    second: zorra humana_19
+  - first:
+      213: -6601309229978710615
+    second: zorra humana_20
+  - first:
+      213: -7274651363214904611
+    second: zorra humana_21
+  - first:
+      213: 1960652069062966095
+    second: zorra humana_22
+  - first:
+      213: -5062985488819709163
+    second: zorra humana_23
+  - first:
+      213: 9132972988090020663
+    second: zorra humana_24
+  - first:
+      213: -2553717444677269606
+    second: zorra humana_25
+  - first:
+      213: -8682587986571065351
+    second: zorra humana_26
+  - first:
+      213: -8306131716909492806
+    second: zorra humana_27
+  - first:
+      213: -2928376406037924016
+    second: zorra humana_28
+  - first:
+      213: 6625489917262321304
+    second: zorra humana_29
+  - first:
+      213: 8837124346375274581
+    second: zorra humana_30
+  - first:
+      213: -5992976490361917064
+    second: zorra humana_31
+  - first:
+      213: 6779706756316656769
+    second: zorra humana_32
+  - first:
+      213: -5128461143270640729
+    second: zorra humana_33
+  - first:
+      213: -4768391085245798822
+    second: zorra humana_34
+  - first:
+      213: -6682251762320947415
+    second: zorra humana_35
+  - first:
+      213: 1033675271824776622
+    second: zorra humana_36
+  - first:
+      213: 5148386979174341469
+    second: zorra humana_37
+  - first:
+      213: -8360121808213665302
+    second: zorra humana_38
+  - first:
+      213: -7619065427334396020
+    second: zorra humana_39
+  - first:
+      213: -576872160350231084
+    second: zorra humana_40
+  - first:
+      213: 3360315417285592757
+    second: zorra humana_41
+  - first:
+      213: -14868894625759474
+    second: zorra humana_42
+  - first:
+      213: 550957234216558682
+    second: zorra humana_43
+  - first:
+      213: -1407482620224426060
+    second: zorra humana_44
+  - first:
+      213: -1074560549736701283
+    second: zorra humana_45
+  - first:
+      213: -7474873936877109245
+    second: zorra humana_46
+  - first:
+      213: -7040885496408401127
+    second: zorra humana_47
+  - first:
+      213: -7370982447999351386
+    second: zorra humana_48
+  - first:
+      213: 1368282500399598279
+    second: zorra humana_49
+  - first:
+      213: -6985320309833449071
+    second: zorra humana_50
+  - first:
+      213: 4151559068907570439
+    second: zorra humana_51
+  - first:
+      213: 6580848279227787329
+    second: zorra humana_52
+  - first:
+      213: 3055433159511682357
+    second: zorra humana_53
+  - first:
+      213: -5177693307713046964
+    second: zorra humana_54
+  - first:
+      213: -2024699251744501455
+    second: zorra humana_55
+  - first:
+      213: 5683294681471421216
+    second: zorra humana_56
+  - first:
+      213: -3815369295982328643
+    second: zorra humana_57
+  - first:
+      213: -8319035406940530962
+    second: zorra humana_58
+  - first:
+      213: -28771328261387607
+    second: zorra humana_59
+  - first:
+      213: -6440107289821139768
+    second: zorra humana_60
+  - first:
+      213: 1092704532998248643
+    second: zorra humana_61
+  - first:
+      213: -6530022044270738693
+    second: zorra humana_62
+  - first:
+      213: 761573514738855798
+    second: zorra humana_63
+  - first:
+      213: -6862332757399655132
+    second: zorra humana_64
+  - first:
+      213: -142488990214242973
+    second: zorra humana_65
+  - first:
+      213: 643976695936736413
+    second: zorra humana_66
+  - first:
+      213: -8945312571746494364
+    second: zorra humana_67
+  - first:
+      213: 8569989676564577510
+    second: zorra humana_68
+  - first:
+      213: 6268815297882734300
+    second: zorra humana_69
+  - first:
+      213: 5004325087545201968
+    second: zorra humana_70
+  - first:
+      213: -7464411744801654333
+    second: zorra humana_71
+  - first:
+      213: -7928282711757183758
+    second: zorra humana_72
+  - first:
+      213: 7204578706065103952
+    second: zorra humana_73
+  - first:
+      213: -5547529647663911860
+    second: zorra humana_74
+  - first:
+      213: -3277831898369234313
+    second: zorra humana_75
+  - first:
+      213: -3530145295075643856
+    second: zorra humana_76
+  - first:
+      213: 7549740192279019417
+    second: zorra humana_77
+  - first:
+      213: -5266480691267495840
+    second: zorra humana_78
+  - first:
+      213: 7600752853018477043
+    second: zorra humana_79
+  - first:
+      213: -7363519720783896139
+    second: zorra humana_80
+  - first:
+      213: 4638402738994871244
+    second: zorra humana_81
+  - first:
+      213: 9050531972279609086
+    second: zorra humana_82
+  - first:
+      213: 8640271056820248045
+    second: zorra humana_83
+  - first:
+      213: 4995373788448187491
+    second: zorra humana_84
+  - first:
+      213: 222165726185391204
+    second: zorra humana_85
+  - first:
+      213: -1825094564316093897
+    second: zorra humana_86
+  - first:
+      213: -4188194749226544526
+    second: zorra humana_87
+  - first:
+      213: 4821550477796005813
+    second: zorra humana_88
+  - first:
+      213: 4906046852098181947
+    second: zorra humana_89
+  - first:
+      213: -5182721981271917561
+    second: zorra humana_90
+  - first:
+      213: -1228045731823419086
+    second: zorra humana_91
+  - first:
+      213: 5227357222989521535
+    second: zorra humana_92
+  - first:
+      213: -5369871017882821924
+    second: zorra humana_93
+  - first:
+      213: -1790973479989558119
+    second: zorra humana_94
+  - first:
+      213: 4110673401421800534
+    second: zorra humana_95
+  - first:
+      213: 3545499549094767394
+    second: zorra humana_96
+  - first:
+      213: 3450579122940662009
+    second: zorra humana_97
+  - first:
+      213: -5046071412050756704
+    second: zorra humana_98
+  - first:
+      213: 645692848641754900
+    second: zorra humana_99
+  - first:
+      213: 8009774584936460830
+    second: zorra humana_100
+  - first:
+      213: 4403089562316394069
+    second: zorra humana_101
+  - first:
+      213: 7599316507147404238
+    second: zorra humana_102
+  - first:
+      213: 406038460410074845
+    second: zorra humana_103
+  - first:
+      213: 988917400087424682
+    second: zorra humana_104
+  - first:
+      213: 3816633814062305657
+    second: zorra humana_105
+  - first:
+      213: 1211655010941239198
+    second: zorra humana_106
+  - first:
+      213: -1364652818686082234
+    second: zorra humana_107
+  - first:
+      213: -4858762379114408891
+    second: zorra humana_108
+  - first:
+      213: -1370888502480922298
+    second: zorra humana_109
+  - first:
+      213: -8879273170400219243
+    second: zorra humana_110
+  - first:
+      213: -5375465226226772812
+    second: zorra humana_111
+  - first:
+      213: -7605275921992860886
+    second: zorra humana_112
+  - first:
+      213: 5918910118439826625
+    second: zorra humana_113
+  - first:
+      213: -4298120169009181331
+    second: zorra humana_114
+  - first:
+      213: 4747972813668950144
+    second: zorra humana_115
+  - first:
+      213: -4257213588620412741
+    second: zorra humana_116
+  - first:
+      213: 3073936208990398348
+    second: zorra humana_117
+  - first:
+      213: 1148775906736682309
+    second: zorra humana_118
+  - first:
+      213: -6543344785701323688
+    second: zorra humana_119
+  - first:
+      213: 1989127202599336456
+    second: zorra humana_120
+  - first:
+      213: 8431280815067200260
+    second: zorra humana_121
+  - first:
+      213: 5070277804462560356
+    second: zorra humana_122
+  - first:
+      213: 2580660462331981330
+    second: zorra humana_123
+  - first:
+      213: -7119587402069199277
+    second: zorra humana_124
+  - first:
+      213: 1602465019875043542
+    second: zorra humana_125
+  - first:
+      213: 272855586522792403
+    second: zorra humana_126
+  - first:
+      213: 3044629129129066799
+    second: zorra humana_127
+  - first:
+      213: -2816052903105118574
+    second: zorra humana_128
+  - first:
+      213: -4054276711285897702
+    second: zorra humana_129
+  - first:
+      213: -5075328012480530392
+    second: zorra humana_130
+  - first:
+      213: -8425306327829271582
+    second: zorra humana_131
+  - first:
+      213: -8580443749654682098
+    second: zorra humana_132
+  - first:
+      213: -26385590401921246
+    second: zorra humana_133
+  - first:
+      213: 5168650890824650022
+    second: zorra humana_134
+  - first:
+      213: -2315869754856735755
+    second: zorra humana_135
+  - first:
+      213: -225101489050740428
+    second: zorra humana_136
+  - first:
+      213: -7860736682179546197
+    second: zorra humana_137
+  - first:
+      213: 8836361910773872849
+    second: zorra humana_138
+  - first:
+      213: 2000785306714308135
+    second: zorra humana_139
+  - first:
+      213: 6747287654390179026
+    second: zorra humana_140
+  - first:
+      213: -3989845518996008882
+    second: zorra humana_141
+  - first:
+      213: -164762710042198367
+    second: zorra humana_142
+  - first:
+      213: -5863041508287293964
+    second: zorra humana_143
+  - first:
+      213: -7298641154477885391
+    second: zorra humana_144
+  - first:
+      213: 8658186017978411414
+    second: zorra humana_145
+  - first:
+      213: -6494405326804683689
+    second: zorra humana_146
+  - first:
+      213: -6399159168669877133
+    second: zorra humana_147
+  - first:
+      213: 6463434564452870424
+    second: zorra humana_148
+  - first:
+      213: -2969659265972928562
+    second: zorra humana_149
+  - first:
+      213: 3477649470606492602
+    second: zorra humana_150
+  - first:
+      213: 925747540531867150
+    second: zorra humana_151
+  - first:
+      213: -2962510195443550894
+    second: zorra humana_152
+  - first:
+      213: -662000302494688846
+    second: zorra humana_153
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zorra humana_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1153
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13575b03acd689db0800000000000000
+      internalID: -4784953888913132239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1153
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea93d28811bbb96a0800000000000000
+      internalID: -6441349158049859154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1153
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9b7f83d4a4ba080800000000000000
+      internalID: -9175158120308557387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1153
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a170f6dec4937cfa0800000000000000
+      internalID: -5780588594142968038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1153
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bfd70031c27b9e0800000000000000
+      internalID: -1605766282010035417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_5
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1153
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9103922545acc0e90800000000000000
+      internalID: -7058044052491915239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_6
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1153
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5bb9358a4fed700800000000000000
+      internalID: 567159606889657783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_7
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1153
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8f6de2d86075770800000000000000
+      internalID: 8599349216933247227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1023
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503ec4a357874fe60800000000000000
+      internalID: 7995147683374097157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1023
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cd6a1d8fa5da1f0800000000000000
+      internalID: -1032068714882212778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1023
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f9b38777d7fd920800000000000000
+      internalID: 3017268227433275248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_11
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1023
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b996e64dedbcc030800000000000000
+      internalID: 3516394235863931321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_12
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1023
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93606479c3433d20800000000000000
+      internalID: 3257021488038962078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_13
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1023
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8aeb71e68ee3b30800000000000000
+      internalID: 4269105056336226538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_14
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1023
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ef131e50daf46e0800000000000000
+      internalID: -1851070681061392761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_15
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1023
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9e5328754d76860800000000000000
+      internalID: 7523215174857517539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 895
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7376804b13fcc26d0800000000000000
+      internalID: -3013806238236907721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 895
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f880a2c8982b84210800000000000000
+      internalID: 1317499194837698703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_18
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 895
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5540b9ea3097100800000000000000
+      internalID: 106120114679862702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_19
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 895
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188042c16c7ea7160800000000000000
+      internalID: 7024181406899374209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_20
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 895
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad8c960b307364a0800000000000000
+      internalID: -6601309229978710615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_21
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 895
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2b3ceb02f3b0b90800000000000000
+      internalID: -7274651363214904611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_22
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 895
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bf1a83ba2a53b10800000000000000
+      internalID: 1960652069062966095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_23
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 895
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b91f3d589acb9b0800000000000000
+      internalID: -5062985488819709163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_24
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 767
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733f75a4b86debe70800000000000000
+      internalID: 9132972988090020663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_25
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 767
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a970b45a38f5f8cd0800000000000000
+      internalID: -2553717444677269606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_26
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 769
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f78b518a30418780800000000000000
+      internalID: -8682587986571065351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_27
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 775
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab511041631babc80800000000000000
+      internalID: -8306131716909492806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_28
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 773
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05779758c215c57d0800000000000000
+      internalID: -2928376406037924016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_29
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 767
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8965a55f9f772fb50800000000000000
+      internalID: 6625489917262321304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_30
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 767
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55087ad95c5c3aa70800000000000000
+      internalID: 8837124346375274581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_31
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 767
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871f5b852aba4dca0800000000000000
+      internalID: -5992976490361917064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_32
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 767
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184f19bdf5b561e50800000000000000
+      internalID: 6779706756316656769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_33
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 767
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3b5fe03cb04d8b0800000000000000
+      internalID: -5128461143270640729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_34
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 639
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56e8cd629543ddb0800000000000000
+      internalID: -4768391085245798822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_35
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 639
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927c12f1d6fd343a0800000000000000
+      internalID: -6682251762320947415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_36
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 639
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead983ede2a585e00800000000000000
+      internalID: 1033675271824776622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_37
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 639
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bdee32eaeb27740800000000000000
+      internalID: 5148386979174341469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_38
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 639
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae99d6e5281eafb80800000000000000
+      internalID: -8360121808213665302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_39
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 639
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8706438c54a34690800000000000000
+      internalID: -7619065427334396020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_40
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 639
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5238993d98ef7f0800000000000000
+      internalID: -576872160350231084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_41
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 639
+        width: 110
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6839c711d32ae20800000000000000
+      internalID: 3360315417285592757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_42
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 639
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ff0a1b1dc2bcff0800000000000000
+      internalID: -14868894625759474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_43
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 678
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50e8e77fa465a700800000000000000
+      internalID: 550957234216558682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_44
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 639
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfacf9930e977ce0800000000000000
+      internalID: -1407482620224426060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_45
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 684
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92ab4f8fd46611f0800000000000000
+      internalID: -1074560549736701283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_46
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 677
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3004d9b02c9e34890800000000000000
+      internalID: -7474873936877109245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_47
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 664
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b906af1ffb94e90800000000000000
+      internalID: -7040885496408401127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_48
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 672
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a50c55448205b990800000000000000
+      internalID: -7370982447999351386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_49
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 673
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca83b44fad1df210800000000000000
+      internalID: 1368282500399598279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_50
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 654
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1914e0220382f0f90800000000000000
+      internalID: -6985320309833449071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_51
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 664
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705894e2afc4d9930800000000000000
+      internalID: 4151559068907570439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_52
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 654
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148ec14a4aed35b50800000000000000
+      internalID: 6580848279227787329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_53
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 653
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53da4ab2544176a20800000000000000
+      internalID: 3055433159511682357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_54
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 656
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46b8d58e532528b0800000000000000
+      internalID: -5177693307713046964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_55
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 641
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13115c202c2d6e3e0800000000000000
+      internalID: -2024699251744501455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_56
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 640
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b88f2c66e1fde40800000000000000
+      internalID: 5683294681471421216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_57
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 639
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db48a0a07d51d0bc0800000000000000
+      internalID: -3815369295982328643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_58
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 587
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6996f9f59dc8c80800000000000000
+      internalID: -8319035406940530962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 511
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa834f11a8c99ff0800000000000000
+      internalID: -28771328261387607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_60
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 511
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccaec28a8420a6a0800000000000000
+      internalID: -6440107289821139768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_61
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 582
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8d1ddbbf01a2f00800000000000000
+      internalID: 1092704532998248643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_62
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 589
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2c5cb5c83b065a0800000000000000
+      internalID: -6530022044270738693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_63
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 579
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fea50a317a19a00800000000000000
+      internalID: 761573514738855798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_64
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 511
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42daaa027b814c0a0800000000000000
+      internalID: -6862332757399655132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_65
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 583
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d30e1b407c50ef0800000000000000
+      internalID: -142488990214242973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_66
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 588
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c50fc946ddfe800800000000000000
+      internalID: 643976695936736413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_67
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 580
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468d63c3c9ddbd380800000000000000
+      internalID: -8945312571746494364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_68
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 511
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec75608438bee670800000000000000
+      internalID: 8569989676564577510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_69
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 583
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdeb5d0cc4e4ff650800000000000000
+      internalID: 6268815297882734300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_70
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 588
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03515bf272fe27540800000000000000
+      internalID: 5004325087545201968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_71
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 581
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9f7d5f015196890800000000000000
+      internalID: -7464411744801654333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_72
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 511
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4a7d621e419f190800000000000000
+      internalID: -7928282711757183758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_73
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 584
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c9a53692ecbf360800000000000000
+      internalID: 7204578706065103952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_74
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 589
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c6b027d273303b0800000000000000
+      internalID: -5547529647663911860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_75
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 582
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ae140514dc282d0800000000000000
+      internalID: -3277831898369234313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_76
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 511
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03eef71ce87620fc0800000000000000
+      internalID: -3530145295075643856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_77
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 583
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fb74364b016c860800000000000000
+      internalID: 7549740192279019417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_78
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 588
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0681c8cd6b3b9e6b0800000000000000
+      internalID: -5266480691267495840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_79
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 581
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f104b5037c4b7960800000000000000
+      internalID: 7600752853018477043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_80
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 511
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1a71ad3d58fc990800000000000000
+      internalID: -7363519720783896139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_81
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 583
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbfcfe37baee5040800000000000000
+      internalID: 4638402738994871244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_82
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 588
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6aa0480e2f99d70800000000000000
+      internalID: 9050531972279609086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_83
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 581
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded1cd08fb868e770800000000000000
+      internalID: 8640271056820248045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_84
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 511
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36460c47ef1235540800000000000000
+      internalID: 4995373788448187491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_85
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 583
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4640c860d8a451300800000000000000
+      internalID: 222165726185391204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_86
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 588
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732617cd926fba6e0800000000000000
+      internalID: -1825094564316093897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_87
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 581
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272123ac01b80e5c0800000000000000
+      internalID: -4188194749226544526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_88
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 511
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b755a72d9699e240800000000000000
+      internalID: 4821550477796005813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_89
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 511
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b4cbe5e97c51440800000000000000
+      internalID: 4906046852098181947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_90
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 564
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cbda831d54318b0800000000000000
+      internalID: -5182721981271917561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_91
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 556
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2310bb2d9ea15fee0800000000000000
+      internalID: -1228045731823419086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_92
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 563
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72ec56d2bd4b8840800000000000000
+      internalID: 5227357222989521535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_93
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 556
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdadd6192c26a75b0800000000000000
+      internalID: -5369871017882821924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_94
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 563
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994c313eb1f2527e0800000000000000
+      internalID: -1790973479989558119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_95
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 563
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654a467edab0c0930800000000000000
+      internalID: 4110673401421800534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_96
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 564
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22be9171e05243130800000000000000
+      internalID: 3545499549094767394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_97
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 563
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0d14c2e6be2ef20800000000000000
+      internalID: 3450579122940662009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_98
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 563
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abf57539c0c8f9b0800000000000000
+      internalID: -5046071412050756704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_99
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 563
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4174d4d8936f5f800800000000000000
+      internalID: 645692848641754900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_100
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 536
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12f6122c8f682f60800000000000000
+      internalID: 8009774584936460830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_101
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 542
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e491cd0aaea1d30800000000000000
+      internalID: 4403089562316394069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_102
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 534
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec38840b912367960800000000000000
+      internalID: 7599316507147404238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_103
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 541
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd693e514d982a500800000000000000
+      internalID: 406038460410074845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_104
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 535
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaee968c22759bd00800000000000000
+      internalID: 988917400087424682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_105
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 543
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9719de48b3867f430800000000000000
+      internalID: 3816633814062305657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_106
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 535
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f797510d9a0d010800000000000000
+      internalID: 1211655010941239198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_107
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 536
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6430b7cdd77cf0de0800000000000000
+      internalID: -1364652818686082234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_108
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 535
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5449ad8eb55329cb0800000000000000
+      internalID: -4858762379114408891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_109
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 535
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64915f69b20a9fce0800000000000000
+      internalID: -1370888502480922298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_110
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 534
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f63ae881c76c480800000000000000
+      internalID: -8879273170400219243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_111
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 383
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4d9407bd28665b0800000000000000
+      internalID: -5375465226226772812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_112
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 383
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bb8cae7d1a47690800000000000000
+      internalID: -7605275921992860886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_113
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 383
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4321b9461342250800000000000000
+      internalID: 5918910118439826625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_114
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 383
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d044c8a720a54c0800000000000000
+      internalID: -4298120169009181331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_115
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 425
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08023f14e1034e140800000000000000
+      internalID: 4747972813668950144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_116
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 383
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8705dfbc65be4c0800000000000000
+      internalID: -4257213588620412741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_117
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 422
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87651712b0d8aa20800000000000000
+      internalID: 3073936208990398348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_118
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 383
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5453197c99541ff00800000000000000
+      internalID: 1148775906736682309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_119
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 423
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c3e55e59e5135a0800000000000000
+      internalID: -6543344785701323688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_120
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 383
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80afff3e6acca9b10800000000000000
+      internalID: 1989127202599336456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_121
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 422
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b75affa3de10570800000000000000
+      internalID: 8431280815067200260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_122
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 255
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464d987bcce3d5640800000000000000
+      internalID: 5070277804462560356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_123
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 255
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e613f740950d320800000000000000
+      internalID: 2580660462331981330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_124
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 255
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356b150aaf4223d90800000000000000
+      internalID: -7119587402069199277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_125
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 255
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d824a202791d3610800000000000000
+      internalID: 1602465019875043542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_126
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 255
+        width: 52
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d10ca5d5b069c300800000000000000
+      internalID: 272855586522792403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_127
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 255
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f218b82df02b04a20800000000000000
+      internalID: 3044629129129066799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_128
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 127
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e36b10ece5be8d0800000000000000
+      internalID: -2816052903105118574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_129
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 127
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a164aa2cfc05cb7c0800000000000000
+      internalID: -4054276711285897702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_130
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82832891010d099b0800000000000000
+      internalID: -5075328012480530392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_131
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eba2e5b88c431b80800000000000000
+      internalID: -8425306327829271582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_132
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06ac9eeed32ce880800000000000000
+      internalID: -8580443749654682098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_133
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 0
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f87e0027242aff0800000000000000
+      internalID: -26385590401921246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_134
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d0c9bb99cbab740800000000000000
+      internalID: 5168650890824650022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_135
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb71bb5ab06cdfd0800000000000000
+      internalID: -2315869754856735755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_136
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43918ba636740ecf0800000000000000
+      internalID: -225101489050740428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_137
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 0
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba33ec1b2ad09e290800000000000000
+      internalID: -7860736682179546197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_138
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 49
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8f77e375011aa70800000000000000
+      internalID: 8836361910773872849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_139
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 59
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ef686c2a734cb10800000000000000
+      internalID: 2000785306714308135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_140
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 38
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d42e4d7f5e23ad50800000000000000
+      internalID: 6747287654390179026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_141
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 35
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e401f8bb3a831a8c0800000000000000
+      internalID: -3989845518996008882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_142
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 45
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae34bb2035a6bdf0800000000000000
+      internalID: -164762710042198367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_143
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 44
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f55a2bdfca42aea0800000000000000
+      internalID: -5863041508287293964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_144
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 26
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1387c443a8406ba90800000000000000
+      internalID: -7298641154477885391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_145
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 8
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6996bd07f4e082870800000000000000
+      internalID: 8658186017978411414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_146
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 31
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754f66c93cc3fd5a0800000000000000
+      internalID: -6494405326804683689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_147
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 34
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c7f3ae3ae9137a0800000000000000
+      internalID: -6399159168669877133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_148
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819e13bdd7bb2b950800000000000000
+      internalID: 6463434564452870424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_149
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf7cbba1a6a9c6d0800000000000000
+      internalID: -2969659265972928562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_150
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 11
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab343d4a4c7134030800000000000000
+      internalID: 3477649470606492602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_151
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 18
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ee719bb7ae8dc00800000000000000
+      internalID: 925747540531867150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_152
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2553d1d5cac03e6d0800000000000000
+      internalID: -2962510195443550894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zorra humana_153
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 13
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b95a987b3a10d6f0800000000000000
+      internalID: -662000302494688846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      zorra humana_0: -4784953888913132239
+      zorra humana_1: -6441349158049859154
+      zorra humana_10: 3017268227433275248
+      zorra humana_100: 8009774584936460830
+      zorra humana_101: 4403089562316394069
+      zorra humana_102: 7599316507147404238
+      zorra humana_103: 406038460410074845
+      zorra humana_104: 988917400087424682
+      zorra humana_105: 3816633814062305657
+      zorra humana_106: 1211655010941239198
+      zorra humana_107: -1364652818686082234
+      zorra humana_108: -4858762379114408891
+      zorra humana_109: -1370888502480922298
+      zorra humana_11: 3516394235863931321
+      zorra humana_110: -8879273170400219243
+      zorra humana_111: -5375465226226772812
+      zorra humana_112: -7605275921992860886
+      zorra humana_113: 5918910118439826625
+      zorra humana_114: -4298120169009181331
+      zorra humana_115: 4747972813668950144
+      zorra humana_116: -4257213588620412741
+      zorra humana_117: 3073936208990398348
+      zorra humana_118: 1148775906736682309
+      zorra humana_119: -6543344785701323688
+      zorra humana_12: 3257021488038962078
+      zorra humana_120: 1989127202599336456
+      zorra humana_121: 8431280815067200260
+      zorra humana_122: 5070277804462560356
+      zorra humana_123: 2580660462331981330
+      zorra humana_124: -7119587402069199277
+      zorra humana_125: 1602465019875043542
+      zorra humana_126: 272855586522792403
+      zorra humana_127: 3044629129129066799
+      zorra humana_128: -2816052903105118574
+      zorra humana_129: -4054276711285897702
+      zorra humana_13: 4269105056336226538
+      zorra humana_130: -5075328012480530392
+      zorra humana_131: -8425306327829271582
+      zorra humana_132: -8580443749654682098
+      zorra humana_133: -26385590401921246
+      zorra humana_134: 5168650890824650022
+      zorra humana_135: -2315869754856735755
+      zorra humana_136: -225101489050740428
+      zorra humana_137: -7860736682179546197
+      zorra humana_138: 8836361910773872849
+      zorra humana_139: 2000785306714308135
+      zorra humana_14: -1851070681061392761
+      zorra humana_140: 6747287654390179026
+      zorra humana_141: -3989845518996008882
+      zorra humana_142: -164762710042198367
+      zorra humana_143: -5863041508287293964
+      zorra humana_144: -7298641154477885391
+      zorra humana_145: 8658186017978411414
+      zorra humana_146: -6494405326804683689
+      zorra humana_147: -6399159168669877133
+      zorra humana_148: 6463434564452870424
+      zorra humana_149: -2969659265972928562
+      zorra humana_15: 7523215174857517539
+      zorra humana_150: 3477649470606492602
+      zorra humana_151: 925747540531867150
+      zorra humana_152: -2962510195443550894
+      zorra humana_153: -662000302494688846
+      zorra humana_16: -3013806238236907721
+      zorra humana_17: 1317499194837698703
+      zorra humana_18: 106120114679862702
+      zorra humana_19: 7024181406899374209
+      zorra humana_2: -9175158120308557387
+      zorra humana_20: -6601309229978710615
+      zorra humana_21: -7274651363214904611
+      zorra humana_22: 1960652069062966095
+      zorra humana_23: -5062985488819709163
+      zorra humana_24: 9132972988090020663
+      zorra humana_25: -2553717444677269606
+      zorra humana_26: -8682587986571065351
+      zorra humana_27: -8306131716909492806
+      zorra humana_28: -2928376406037924016
+      zorra humana_29: 6625489917262321304
+      zorra humana_3: -5780588594142968038
+      zorra humana_30: 8837124346375274581
+      zorra humana_31: -5992976490361917064
+      zorra humana_32: 6779706756316656769
+      zorra humana_33: -5128461143270640729
+      zorra humana_34: -4768391085245798822
+      zorra humana_35: -6682251762320947415
+      zorra humana_36: 1033675271824776622
+      zorra humana_37: 5148386979174341469
+      zorra humana_38: -8360121808213665302
+      zorra humana_39: -7619065427334396020
+      zorra humana_4: -1605766282010035417
+      zorra humana_40: -576872160350231084
+      zorra humana_41: 3360315417285592757
+      zorra humana_42: -14868894625759474
+      zorra humana_43: 550957234216558682
+      zorra humana_44: -1407482620224426060
+      zorra humana_45: -1074560549736701283
+      zorra humana_46: -7474873936877109245
+      zorra humana_47: -7040885496408401127
+      zorra humana_48: -7370982447999351386
+      zorra humana_49: 1368282500399598279
+      zorra humana_5: -7058044052491915239
+      zorra humana_50: -6985320309833449071
+      zorra humana_51: 4151559068907570439
+      zorra humana_52: 6580848279227787329
+      zorra humana_53: 3055433159511682357
+      zorra humana_54: -5177693307713046964
+      zorra humana_55: -2024699251744501455
+      zorra humana_56: 5683294681471421216
+      zorra humana_57: -3815369295982328643
+      zorra humana_58: -8319035406940530962
+      zorra humana_59: -28771328261387607
+      zorra humana_6: 567159606889657783
+      zorra humana_60: -6440107289821139768
+      zorra humana_61: 1092704532998248643
+      zorra humana_62: -6530022044270738693
+      zorra humana_63: 761573514738855798
+      zorra humana_64: -6862332757399655132
+      zorra humana_65: -142488990214242973
+      zorra humana_66: 643976695936736413
+      zorra humana_67: -8945312571746494364
+      zorra humana_68: 8569989676564577510
+      zorra humana_69: 6268815297882734300
+      zorra humana_7: 8599349216933247227
+      zorra humana_70: 5004325087545201968
+      zorra humana_71: -7464411744801654333
+      zorra humana_72: -7928282711757183758
+      zorra humana_73: 7204578706065103952
+      zorra humana_74: -5547529647663911860
+      zorra humana_75: -3277831898369234313
+      zorra humana_76: -3530145295075643856
+      zorra humana_77: 7549740192279019417
+      zorra humana_78: -5266480691267495840
+      zorra humana_79: 7600752853018477043
+      zorra humana_8: 7995147683374097157
+      zorra humana_80: -7363519720783896139
+      zorra humana_81: 4638402738994871244
+      zorra humana_82: 9050531972279609086
+      zorra humana_83: 8640271056820248045
+      zorra humana_84: 4995373788448187491
+      zorra humana_85: 222165726185391204
+      zorra humana_86: -1825094564316093897
+      zorra humana_87: -4188194749226544526
+      zorra humana_88: 4821550477796005813
+      zorra humana_89: 4906046852098181947
+      zorra humana_9: -1032068714882212778
+      zorra humana_90: -5182721981271917561
+      zorra humana_91: -1228045731823419086
+      zorra humana_92: 5227357222989521535
+      zorra humana_93: -5369871017882821924
+      zorra humana_94: -1790973479989558119
+      zorra humana_95: 4110673401421800534
+      zorra humana_96: 3545499549094767394
+      zorra humana_97: 3450579122940662009
+      zorra humana_98: -5046071412050756704
+      zorra humana_99: 645692848641754900
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
