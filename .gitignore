@@ -10,6 +10,7 @@ MemoryCaptures/
 
 .vscode/
 .idea/
+.vs/
 
 .DS_Store
 *.apk
