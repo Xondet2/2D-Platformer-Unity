@@ -496,7 +496,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -510,7 +510,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -534,7 +534,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -575,12 +575,12 @@ TextureImporter:
       name: zorra humana_0
       rect:
         serializedVersion: 2
-        x: 31
-        y: 1153
+        x: 32
+        y: 1154
         width: 44
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -597,12 +597,12 @@ TextureImporter:
       name: zorra humana_1
       rect:
         serializedVersion: 2
-        x: 163
-        y: 1153
+        x: 164
+        y: 1154
         width: 44
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -620,11 +620,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 286
-        y: 1153
+        y: 1154
         width: 45
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -641,12 +641,12 @@ TextureImporter:
       name: zorra humana_3
       rect:
         serializedVersion: 2
-        x: 413
-        y: 1153
-        width: 46
-        height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 412
+        y: 1154
+        width: 47
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -664,11 +664,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 540
-        y: 1153
+        y: 1154
         width: 47
-        height: 74
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -686,11 +686,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 667
-        y: 1153
+        y: 1154
         width: 48
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -708,11 +708,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 792
-        y: 1153
+        y: 1154
         width: 51
         height: 81
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -730,11 +730,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 927
-        y: 1153
+        y: 1154
         width: 44
         height: 81
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -751,12 +751,12 @@ TextureImporter:
       name: zorra humana_8
       rect:
         serializedVersion: 2
-        x: 24
+        x: 23
         y: 1023
-        width: 51
+        width: 53
         height: 81
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -773,12 +773,12 @@ TextureImporter:
       name: zorra humana_9
       rect:
         serializedVersion: 2
-        x: 156
+        x: 155
         y: 1023
         width: 48
         height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -797,10 +797,10 @@ TextureImporter:
         serializedVersion: 2
         x: 279
         y: 1023
-        width: 49
+        width: 50
         height: 74
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -821,8 +821,8 @@ TextureImporter:
         y: 1023
         width: 50
         height: 73
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -843,8 +843,8 @@ TextureImporter:
         y: 1023
         width: 53
         height: 73
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -863,10 +863,10 @@ TextureImporter:
         serializedVersion: 2
         x: 660
         y: 1023
-        width: 53
-        height: 79
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 54
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -887,8 +887,8 @@ TextureImporter:
         y: 1023
         width: 55
         height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -908,9 +908,9 @@ TextureImporter:
         x: 920
         y: 1023
         width: 48
-        height: 83
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -930,9 +930,9 @@ TextureImporter:
         x: 16
         y: 895
         width: 51
-        height: 86
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -953,8 +953,8 @@ TextureImporter:
         y: 895
         width: 52
         height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -971,12 +971,12 @@ TextureImporter:
       name: zorra humana_18
       rect:
         serializedVersion: 2
-        x: 270
+        x: 269
         y: 895
-        width: 54
+        width: 55
         height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -993,12 +993,12 @@ TextureImporter:
       name: zorra humana_19
       rect:
         serializedVersion: 2
-        x: 398
+        x: 397
         y: 895
-        width: 53
-        height: 79
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 54
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1019,8 +1019,8 @@ TextureImporter:
         y: 895
         width: 55
         height: 83
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1041,8 +1041,8 @@ TextureImporter:
         y: 895
         width: 55
         height: 85
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1062,9 +1062,9 @@ TextureImporter:
         x: 780
         y: 895
         width: 56
-        height: 86
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1083,10 +1083,10 @@ TextureImporter:
         serializedVersion: 2
         x: 912
         y: 895
-        width: 51
-        height: 86
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 50
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1103,12 +1103,12 @@ TextureImporter:
       name: zorra humana_24
       rect:
         serializedVersion: 2
-        x: 28
+        x: 27
         y: 767
         width: 55
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1127,10 +1127,10 @@ TextureImporter:
         serializedVersion: 2
         x: 159
         y: 767
-        width: 48
+        width: 49
         height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1151,8 +1151,8 @@ TextureImporter:
         y: 769
         width: 53
         height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1171,10 +1171,10 @@ TextureImporter:
         serializedVersion: 2
         x: 396
         y: 775
-        width: 75
+        width: 76
         height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1195,8 +1195,8 @@ TextureImporter:
         y: 773
         width: 77
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1217,8 +1217,8 @@ TextureImporter:
         y: 767
         width: 65
         height: 74
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1239,8 +1239,8 @@ TextureImporter:
         y: 767
         width: 55
         height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1259,10 +1259,10 @@ TextureImporter:
         serializedVersion: 2
         x: 928
         y: 767
-        width: 57
+        width: 56
         height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1283,8 +1283,8 @@ TextureImporter:
         y: 767
         width: 50
         height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1303,10 +1303,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1189
         y: 767
-        width: 49
+        width: 48
         height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1325,10 +1325,10 @@ TextureImporter:
         serializedVersion: 2
         x: 29
         y: 639
-        width: 43
+        width: 42
         height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1349,8 +1349,8 @@ TextureImporter:
         y: 639
         width: 51
         height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1371,8 +1371,8 @@ TextureImporter:
         y: 639
         width: 58
         height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1393,8 +1393,8 @@ TextureImporter:
         y: 639
         width: 63
         height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1415,8 +1415,8 @@ TextureImporter:
         y: 639
         width: 54
         height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1433,12 +1433,12 @@ TextureImporter:
       name: zorra humana_39
       rect:
         serializedVersion: 2
-        x: 662
+        x: 661
         y: 639
-        width: 60
+        width: 61
         height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1455,12 +1455,12 @@ TextureImporter:
       name: zorra humana_40
       rect:
         serializedVersion: 2
-        x: 805
+        x: 795
         y: 639
-        width: 51
+        width: 62
         height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1477,12 +1477,12 @@ TextureImporter:
       name: zorra humana_41
       rect:
         serializedVersion: 2
-        x: 910
+        x: 936
         y: 639
-        width: 110
+        width: 84
         height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1499,12 +1499,12 @@ TextureImporter:
       name: zorra humana_42
       rect:
         serializedVersion: 2
-        x: 1069
+        x: 1068
         y: 639
-        width: 57
+        width: 58
         height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1521,12 +1521,12 @@ TextureImporter:
       name: zorra humana_43
       rect:
         serializedVersion: 2
-        x: 1134
-        y: 678
-        width: 14
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1132
+        y: 664
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1543,12 +1543,12 @@ TextureImporter:
       name: zorra humana_44
       rect:
         serializedVersion: 2
-        x: 1197
+        x: 1198
         y: 639
-        width: 57
+        width: 56
         height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1565,12 +1565,12 @@ TextureImporter:
       name: zorra humana_45
       rect:
         serializedVersion: 2
-        x: 1274
-        y: 684
+        x: 1275
+        y: 672
         width: 16
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1587,12 +1587,12 @@ TextureImporter:
       name: zorra humana_46
       rect:
         serializedVersion: 2
-        x: 1275
-        y: 677
-        width: 14
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1130
+        y: 653
+        width: 26
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1609,12 +1609,12 @@ TextureImporter:
       name: zorra humana_47
       rect:
         serializedVersion: 2
-        x: 1131
+        x: 1277
         y: 664
-        width: 21
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 14
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1631,12 +1631,12 @@ TextureImporter:
       name: zorra humana_48
       rect:
         serializedVersion: 2
-        x: 1132
-        y: 672
-        width: 17
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 914
+        y: 654
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1653,12 +1653,12 @@ TextureImporter:
       name: zorra humana_49
       rect:
         serializedVersion: 2
-        x: 1277
-        y: 673
-        width: 14
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 656
+        width: 12
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1675,12 +1675,12 @@ TextureImporter:
       name: zorra humana_50
       rect:
         serializedVersion: 2
-        x: 1130
-        y: 654
-        width: 14
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 928
+        y: 649
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1697,12 +1697,12 @@ TextureImporter:
       name: zorra humana_51
       rect:
         serializedVersion: 2
-        x: 1278
-        y: 664
-        width: 13
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 785
+        y: 641
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1719,12 +1719,12 @@ TextureImporter:
       name: zorra humana_52
       rect:
         serializedVersion: 2
-        x: 914
-        y: 654
-        width: 10
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 910
+        y: 639
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1741,12 +1741,12 @@ TextureImporter:
       name: zorra humana_53
       rect:
         serializedVersion: 2
-        x: 1136
-        y: 653
-        width: 20
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 920
+        y: 639
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1763,12 +1763,12 @@ TextureImporter:
       name: zorra humana_54
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 656
-        width: 13
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 929
+        y: 639
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1785,12 +1785,12 @@ TextureImporter:
       name: zorra humana_55
       rect:
         serializedVersion: 2
-        x: 785
-        y: 641
-        width: 9
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 40
+        y: 582
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1807,12 +1807,12 @@ TextureImporter:
       name: zorra humana_56
       rect:
         serializedVersion: 2
-        x: 795
-        y: 640
-        width: 9
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 51
+        y: 587
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1829,12 +1829,12 @@ TextureImporter:
       name: zorra humana_57
       rect:
         serializedVersion: 2
-        x: 930
-        y: 639
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 137
+        y: 511
+        width: 84
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1851,12 +1851,12 @@ TextureImporter:
       name: zorra humana_58
       rect:
         serializedVersion: 2
-        x: 51
-        y: 587
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 274
+        y: 511
+        width: 77
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1873,12 +1873,12 @@ TextureImporter:
       name: zorra humana_59
       rect:
         serializedVersion: 2
-        x: 144
+        x: 403
         y: 511
         width: 71
-        height: 86
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1895,12 +1895,12 @@ TextureImporter:
       name: zorra humana_60
       rect:
         serializedVersion: 2
-        x: 273
+        x: 531
         y: 511
-        width: 68
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 70
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1917,12 +1917,12 @@ TextureImporter:
       name: zorra humana_61
       rect:
         serializedVersion: 2
-        x: 292
-        y: 582
-        width: 7
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 659
+        y: 511
+        width: 70
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1939,12 +1939,12 @@ TextureImporter:
       name: zorra humana_62
       rect:
         serializedVersion: 2
-        x: 301
-        y: 589
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 786
+        y: 511
+        width: 71
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1961,12 +1961,12 @@ TextureImporter:
       name: zorra humana_63
       rect:
         serializedVersion: 2
-        x: 322
-        y: 579
-        width: 10
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 914
+        y: 511
+        width: 72
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1983,12 +1983,12 @@ TextureImporter:
       name: zorra humana_64
       rect:
         serializedVersion: 2
-        x: 403
+        x: 1044
         y: 511
-        width: 71
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 68
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2005,12 +2005,12 @@ TextureImporter:
       name: zorra humana_65
       rect:
         serializedVersion: 2
-        x: 420
-        y: 583
-        width: 8
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1170
+        y: 511
+        width: 70
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2027,12 +2027,12 @@ TextureImporter:
       name: zorra humana_66
       rect:
         serializedVersion: 2
-        x: 429
-        y: 588
-        width: 9
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 21
+        y: 511
+        width: 66
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2049,12 +2049,12 @@ TextureImporter:
       name: zorra humana_67
       rect:
         serializedVersion: 2
-        x: 450
-        y: 580
-        width: 7
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 269
+        y: 562
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2071,12 +2071,12 @@ TextureImporter:
       name: zorra humana_68
       rect:
         serializedVersion: 2
-        x: 531
-        y: 511
-        width: 70
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 397
+        y: 562
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2093,12 +2093,12 @@ TextureImporter:
       name: zorra humana_69
       rect:
         serializedVersion: 2
-        x: 548
-        y: 583
+        x: 525
+        y: 562
         width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2115,12 +2115,12 @@ TextureImporter:
       name: zorra humana_70
       rect:
         serializedVersion: 2
-        x: 557
-        y: 588
+        x: 653
+        y: 564
         width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2137,12 +2137,12 @@ TextureImporter:
       name: zorra humana_71
       rect:
         serializedVersion: 2
-        x: 578
-        y: 581
+        x: 781
+        y: 562
         width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2159,12 +2159,12 @@ TextureImporter:
       name: zorra humana_72
       rect:
         serializedVersion: 2
-        x: 659
-        y: 511
-        width: 70
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 909
+        y: 562
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2181,12 +2181,12 @@ TextureImporter:
       name: zorra humana_73
       rect:
         serializedVersion: 2
-        x: 676
-        y: 584
+        x: 1037
+        y: 562
         width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2203,12 +2203,12 @@ TextureImporter:
       name: zorra humana_74
       rect:
         serializedVersion: 2
-        x: 685
-        y: 589
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 88
+        y: 557
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2225,12 +2225,12 @@ TextureImporter:
       name: zorra humana_75
       rect:
         serializedVersion: 2
-        x: 706
-        y: 582
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 16
+        y: 538
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2247,12 +2247,12 @@ TextureImporter:
       name: zorra humana_76
       rect:
         serializedVersion: 2
-        x: 787
-        y: 511
-        width: 70
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 92
+        y: 542
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2269,12 +2269,12 @@ TextureImporter:
       name: zorra humana_77
       rect:
         serializedVersion: 2
-        x: 804
-        y: 583
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 263
+        y: 533
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2291,12 +2291,12 @@ TextureImporter:
       name: zorra humana_78
       rect:
         serializedVersion: 2
-        x: 813
-        y: 588
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 390
+        y: 535
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2313,12 +2313,12 @@ TextureImporter:
       name: zorra humana_79
       rect:
         serializedVersion: 2
-        x: 834
-        y: 581
+        x: 470
+        y: 543
         width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2335,12 +2335,12 @@ TextureImporter:
       name: zorra humana_80
       rect:
         serializedVersion: 2
-        x: 915
-        y: 511
-        width: 71
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 520
+        y: 535
+        width: 7
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2357,12 +2357,12 @@ TextureImporter:
       name: zorra humana_81
       rect:
         serializedVersion: 2
-        x: 932
-        y: 583
-        width: 8
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 648
+        y: 536
+        width: 6
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2379,12 +2379,12 @@ TextureImporter:
       name: zorra humana_82
       rect:
         serializedVersion: 2
-        x: 941
-        y: 588
-        width: 8
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 775
+        y: 535
+        width: 7
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2401,12 +2401,12 @@ TextureImporter:
       name: zorra humana_83
       rect:
         serializedVersion: 2
-        x: 962
-        y: 581
-        width: 8
+        x: 903
+        y: 535
+        width: 9
         height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2423,12 +2423,12 @@ TextureImporter:
       name: zorra humana_84
       rect:
         serializedVersion: 2
-        x: 1043
-        y: 511
-        width: 70
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1033
+        y: 533
+        width: 6
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2445,12 +2445,12 @@ TextureImporter:
       name: zorra humana_85
       rect:
         serializedVersion: 2
-        x: 1060
-        y: 583
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 32
+        y: 384
+        width: 53
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2467,12 +2467,12 @@ TextureImporter:
       name: zorra humana_86
       rect:
         serializedVersion: 2
-        x: 1069
-        y: 588
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 158
+        y: 384
+        width: 56
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2489,12 +2489,12 @@ TextureImporter:
       name: zorra humana_87
       rect:
         serializedVersion: 2
-        x: 1090
-        y: 581
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 286
+        y: 384
+        width: 59
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2511,12 +2511,12 @@ TextureImporter:
       name: zorra humana_88
       rect:
         serializedVersion: 2
-        x: 1169
-        y: 511
-        width: 72
-        height: 81
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 412
+        y: 384
+        width: 77
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2533,12 +2533,12 @@ TextureImporter:
       name: zorra humana_89
       rect:
         serializedVersion: 2
-        x: 17
-        y: 511
-        width: 79
-        height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 540
+        y: 384
+        width: 81
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2555,12 +2555,12 @@ TextureImporter:
       name: zorra humana_90
       rect:
         serializedVersion: 2
-        x: 142
-        y: 564
-        width: 8
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 665
+        y: 384
+        width: 84
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2577,12 +2577,12 @@ TextureImporter:
       name: zorra humana_91
       rect:
         serializedVersion: 2
-        x: 212
-        y: 556
-        width: 8
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 799
+        y: 384
+        width: 84
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2599,12 +2599,12 @@ TextureImporter:
       name: zorra humana_92
       rect:
         serializedVersion: 2
-        x: 269
-        y: 563
-        width: 10
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 23
+        y: 254
+        width: 44
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2621,12 +2621,12 @@ TextureImporter:
       name: zorra humana_93
       rect:
         serializedVersion: 2
-        x: 338
-        y: 556
-        width: 9
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 155
+        y: 254
+        width: 48
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2643,12 +2643,12 @@ TextureImporter:
       name: zorra humana_94
       rect:
         serializedVersion: 2
-        x: 397
-        y: 563
-        width: 9
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 276
+        y: 254
+        width: 50
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2665,12 +2665,12 @@ TextureImporter:
       name: zorra humana_95
       rect:
         serializedVersion: 2
-        x: 525
-        y: 563
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 406
+        y: 254
+        width: 46
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2687,12 +2687,12 @@ TextureImporter:
       name: zorra humana_96
       rect:
         serializedVersion: 2
-        x: 653
-        y: 564
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 529
+        y: 254
+        width: 53
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2709,12 +2709,12 @@ TextureImporter:
       name: zorra humana_97
       rect:
         serializedVersion: 2
-        x: 781
-        y: 563
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 664
+        y: 254
+        width: 45
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2731,12 +2731,12 @@ TextureImporter:
       name: zorra humana_98
       rect:
         serializedVersion: 2
-        x: 909
-        y: 563
-        width: 8
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 23
+        y: 126
+        width: 54
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2753,12 +2753,12 @@ TextureImporter:
       name: zorra humana_99
       rect:
         serializedVersion: 2
-        x: 1037
-        y: 563
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 153
+        y: 126
+        width: 56
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2775,12 +2775,12 @@ TextureImporter:
       name: zorra humana_100
       rect:
         serializedVersion: 2
-        x: 138
-        y: 536
-        width: 8
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 33
+        y: 0
+        width: 56
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2797,12 +2797,12 @@ TextureImporter:
       name: zorra humana_101
       rect:
         serializedVersion: 2
-        x: 215
-        y: 542
-        width: 7
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 162
+        y: 0
+        width: 55
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2819,12 +2819,12 @@ TextureImporter:
       name: zorra humana_102
       rect:
         serializedVersion: 2
-        x: 263
-        y: 534
-        width: 10
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 291
+        y: 0
+        width: 49
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2841,12 +2841,12 @@ TextureImporter:
       name: zorra humana_103
       rect:
         serializedVersion: 2
-        x: 341
-        y: 541
-        width: 10
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 419
+        y: 0
+        width: 48
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2863,12 +2863,12 @@ TextureImporter:
       name: zorra humana_104
       rect:
         serializedVersion: 2
-        x: 391
-        y: 535
-        width: 9
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 549
+        y: 0
+        width: 45
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2885,12 +2885,12 @@ TextureImporter:
       name: zorra humana_105
       rect:
         serializedVersion: 2
-        x: 470
-        y: 543
-        width: 7
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 683
+        y: 0
+        width: 36
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2907,12 +2907,12 @@ TextureImporter:
       name: zorra humana_106
       rect:
         serializedVersion: 2
-        x: 520
-        y: 535
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 810
+        y: 0
+        width: 40
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2929,12 +2929,12 @@ TextureImporter:
       name: zorra humana_107
       rect:
         serializedVersion: 2
-        x: 648
-        y: 536
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 938
+        y: 0
+        width: 42
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2951,12 +2951,12 @@ TextureImporter:
       name: zorra humana_108
       rect:
         serializedVersion: 2
-        x: 776
-        y: 535
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1190
+        y: 0
+        width: 46
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2970,59 +2970,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zorra humana_109
-      rect:
-        serializedVersion: 2
-        x: 904
-        y: 535
-        width: 8
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 64915f69b20a9fce0800000000000000
-      internalID: -1370888502480922298
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_110
-      rect:
-        serializedVersion: 2
-        x: 1032
-        y: 534
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 59f63ae881c76c480800000000000000
-      internalID: -8879273170400219243
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: zorra humana_111
       rect:
         serializedVersion: 2
-        x: 31
-        y: 383
-        width: 54
-        height: 79
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1071
+        y: 0
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3035,935 +2991,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: zorra humana_112
-      rect:
-        serializedVersion: 2
-        x: 158
-        y: 383
-        width: 56
-        height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a2bb8cae7d1a47690800000000000000
-      internalID: -7605275921992860886
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_113
-      rect:
-        serializedVersion: 2
-        x: 286
-        y: 383
-        width: 59
-        height: 73
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1c4321b9461342250800000000000000
-      internalID: 5918910118439826625
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_114
-      rect:
-        serializedVersion: 2
-        x: 413
-        y: 383
-        width: 67
-        height: 74
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d6d044c8a720a54c0800000000000000
-      internalID: -4298120169009181331
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_115
-      rect:
-        serializedVersion: 2
-        x: 478
-        y: 425
-        width: 11
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 08023f14e1034e140800000000000000
-      internalID: 4747972813668950144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_116
-      rect:
-        serializedVersion: 2
-        x: 540
-        y: 383
-        width: 68
-        height: 79
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bb8705dfbc65be4c0800000000000000
-      internalID: -4257213588620412741
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_117
-      rect:
-        serializedVersion: 2
-        x: 605
-        y: 422
-        width: 16
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c87651712b0d8aa20800000000000000
-      internalID: 3073936208990398348
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_118
-      rect:
-        serializedVersion: 2
-        x: 665
-        y: 383
-        width: 71
-        height: 83
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5453197c99541ff00800000000000000
-      internalID: 1148775906736682309
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_119
-      rect:
-        serializedVersion: 2
-        x: 733
-        y: 423
-        width: 16
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 85c3e55e59e5135a0800000000000000
-      internalID: -6543344785701323688
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_120
-      rect:
-        serializedVersion: 2
-        x: 799
-        y: 383
-        width: 65
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 80afff3e6acca9b10800000000000000
-      internalID: 1989127202599336456
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_121
-      rect:
-        serializedVersion: 2
-        x: 861
-        y: 422
-        width: 22
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 40b75affa3de10570800000000000000
-      internalID: 8431280815067200260
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_122
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 255
-        width: 44
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 464d987bcce3d5640800000000000000
-      internalID: 5070277804462560356
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_123
-      rect:
-        serializedVersion: 2
-        x: 156
-        y: 255
-        width: 48
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 21e613f740950d320800000000000000
-      internalID: 2580660462331981330
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_124
-      rect:
-        serializedVersion: 2
-        x: 277
-        y: 255
-        width: 49
-        height: 74
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 356b150aaf4223d90800000000000000
-      internalID: -7119587402069199277
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_125
-      rect:
-        serializedVersion: 2
-        x: 405
-        y: 255
-        width: 48
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6d824a202791d3610800000000000000
-      internalID: 1602465019875043542
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_126
-      rect:
-        serializedVersion: 2
-        x: 529
-        y: 255
-        width: 52
-        height: 81
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3d10ca5d5b069c300800000000000000
-      internalID: 272855586522792403
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_127
-      rect:
-        serializedVersion: 2
-        x: 664
-        y: 255
-        width: 45
-        height: 81
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f218b82df02b04a20800000000000000
-      internalID: 3044629129129066799
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_128
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 127
-        width: 53
-        height: 74
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 29e36b10ece5be8d0800000000000000
-      internalID: -2816052903105118574
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_129
-      rect:
-        serializedVersion: 2
-        x: 153
-        y: 127
-        width: 56
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a164aa2cfc05cb7c0800000000000000
-      internalID: -4054276711285897702
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_130
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 0
-        width: 57
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 82832891010d099b0800000000000000
-      internalID: -5075328012480530392
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_131
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 0
-        width: 55
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2eba2e5b88c431b80800000000000000
-      internalID: -8425306327829271582
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_132
-      rect:
-        serializedVersion: 2
-        x: 291
-        y: 0
-        width: 49
-        height: 74
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e06ac9eeed32ce880800000000000000
-      internalID: -8580443749654682098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_133
-      rect:
-        serializedVersion: 2
-        x: 419
-        y: 0
-        width: 49
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 22f87e0027242aff0800000000000000
-      internalID: -26385590401921246
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_134
-      rect:
-        serializedVersion: 2
-        x: 548
-        y: 0
-        width: 46
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 62d0c9bb99cbab740800000000000000
-      internalID: 5168650890824650022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_135
-      rect:
-        serializedVersion: 2
-        x: 684
-        y: 0
-        width: 35
-        height: 74
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5fb71bb5ab06cdfd0800000000000000
-      internalID: -2315869754856735755
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_136
-      rect:
-        serializedVersion: 2
-        x: 810
-        y: 0
-        width: 40
-        height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 43918ba636740ecf0800000000000000
-      internalID: -225101489050740428
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_137
-      rect:
-        serializedVersion: 2
-        x: 938
-        y: 0
-        width: 42
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ba33ec1b2ad09e290800000000000000
-      internalID: -7860736682179546197
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_138
-      rect:
-        serializedVersion: 2
-        x: 1079
-        y: 49
-        width: 16
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1d8f77e375011aa70800000000000000
-      internalID: 8836361910773872849
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_139
-      rect:
-        serializedVersion: 2
-        x: 1080
-        y: 59
-        width: 11
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 72ef686c2a734cb10800000000000000
-      internalID: 2000785306714308135
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_140
-      rect:
-        serializedVersion: 2
-        x: 1196
-        y: 38
-        width: 36
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2d42e4d7f5e23ad50800000000000000
-      internalID: 6747287654390179026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_141
-      rect:
-        serializedVersion: 2
-        x: 1070
-        y: 35
-        width: 11
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e401f8bb3a831a8c0800000000000000
-      internalID: -3989845518996008882
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_142
-      rect:
-        serializedVersion: 2
-        x: 1088
-        y: 45
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1ae34bb2035a6bdf0800000000000000
-      internalID: -164762710042198367
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_143
-      rect:
-        serializedVersion: 2
-        x: 1094
-        y: 44
-        width: 12
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4f55a2bdfca42aea0800000000000000
-      internalID: -5863041508287293964
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_144
-      rect:
-        serializedVersion: 2
-        x: 1074
-        y: 26
-        width: 6
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1387c443a8406ba90800000000000000
-      internalID: -7298641154477885391
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_145
-      rect:
-        serializedVersion: 2
-        x: 1081
-        y: 8
-        width: 23
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6996bd07f4e082870800000000000000
-      internalID: 8658186017978411414
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_146
-      rect:
-        serializedVersion: 2
-        x: 1213
-        y: 31
-        width: 9
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 754f66c93cc3fd5a0800000000000000
-      internalID: -6494405326804683689
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_147
-      rect:
-        serializedVersion: 2
-        x: 1220
-        y: 34
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 37c7f3ae3ae9137a0800000000000000
-      internalID: -6399159168669877133
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_148
-      rect:
-        serializedVersion: 2
-        x: 1072
-        y: 19
-        width: 9
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 819e13bdd7bb2b950800000000000000
-      internalID: 6463434564452870424
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_149
-      rect:
-        serializedVersion: 2
-        x: 1085
-        y: 1
-        width: 18
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ecf7cbba1a6a9c6d0800000000000000
-      internalID: -2969659265972928562
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_150
-      rect:
-        serializedVersion: 2
-        x: 1096
-        y: 11
-        width: 9
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ab343d4a4c7134030800000000000000
-      internalID: 3477649470606492602
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_151
-      rect:
-        serializedVersion: 2
-        x: 1198
-        y: 18
-        width: 9
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e0ee719bb7ae8dc00800000000000000
-      internalID: 925747540531867150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_152
-      rect:
-        serializedVersion: 2
-        x: 1208
-        y: 1
-        width: 25
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2553d1d5cac03e6d0800000000000000
-      internalID: -2962510195443550894
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zorra humana_153
-      rect:
-        serializedVersion: 2
-        x: 1225
-        y: 13
-        width: 8
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2b95a987b3a10d6f0800000000000000
-      internalID: -662000302494688846
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 28ab1252920dc530eaa7af6d9cbbfebe
     internalID: 0
     vertices: []
     indices: 
@@ -3971,7 +3003,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       zorra humana_0: -4784953888913132239
       zorra humana_1: -6441349158049859154
@@ -4003,38 +3037,11 @@ TextureImporter:
       zorra humana_122: 5070277804462560356
       zorra humana_123: 2580660462331981330
       zorra humana_124: -7119587402069199277
-      zorra humana_125: 1602465019875043542
-      zorra humana_126: 272855586522792403
-      zorra humana_127: 3044629129129066799
-      zorra humana_128: -2816052903105118574
-      zorra humana_129: -4054276711285897702
+      zorra humana_125: 1107730628
+      zorra humana_126: -1987116435
       zorra humana_13: 4269105056336226538
-      zorra humana_130: -5075328012480530392
-      zorra humana_131: -8425306327829271582
-      zorra humana_132: -8580443749654682098
-      zorra humana_133: -26385590401921246
-      zorra humana_134: 5168650890824650022
-      zorra humana_135: -2315869754856735755
-      zorra humana_136: -225101489050740428
-      zorra humana_137: -7860736682179546197
-      zorra humana_138: 8836361910773872849
-      zorra humana_139: 2000785306714308135
       zorra humana_14: -1851070681061392761
-      zorra humana_140: 6747287654390179026
-      zorra humana_141: -3989845518996008882
-      zorra humana_142: -164762710042198367
-      zorra humana_143: -5863041508287293964
-      zorra humana_144: -7298641154477885391
-      zorra humana_145: 8658186017978411414
-      zorra humana_146: -6494405326804683689
-      zorra humana_147: -6399159168669877133
-      zorra humana_148: 6463434564452870424
-      zorra humana_149: -2969659265972928562
       zorra humana_15: 7523215174857517539
-      zorra humana_150: 3477649470606492602
-      zorra humana_151: 925747540531867150
-      zorra humana_152: -2962510195443550894
-      zorra humana_153: -662000302494688846
       zorra humana_16: -3013806238236907721
       zorra humana_17: 1317499194837698703
       zorra humana_18: 106120114679862702

@@ -131,12 +131,12 @@ TextureImporter:
       name: Bad_attack_1_0
       rect:
         serializedVersion: 2
-        x: 37
-        y: 511
-        width: 40
-        height: 86
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 38
+        y: 512
+        width: 38
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -153,12 +153,12 @@ TextureImporter:
       name: Bad_attack_1_1
       rect:
         serializedVersion: 2
-        x: 165
-        y: 511
-        width: 40
-        height: 86
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 166
+        y: 512
+        width: 38
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -175,12 +175,12 @@ TextureImporter:
       name: Bad_attack_1_2
       rect:
         serializedVersion: 2
-        x: 293
-        y: 511
-        width: 40
-        height: 86
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 294
+        y: 512
+        width: 38
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -197,12 +197,12 @@ TextureImporter:
       name: Bad_attack_1_3
       rect:
         serializedVersion: 2
-        x: 421
-        y: 511
-        width: 55
-        height: 86
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 422
+        y: 512
+        width: 53
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -219,12 +219,12 @@ TextureImporter:
       name: Bad_attack_1_4
       rect:
         serializedVersion: 2
-        x: 549
-        y: 511
-        width: 48
-        height: 86
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 550
+        y: 512
+        width: 46
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -241,12 +241,12 @@ TextureImporter:
       name: Bad_attack_1_5
       rect:
         serializedVersion: 2
-        x: 677
-        y: 511
-        width: 41
-        height: 86
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 678
+        y: 512
+        width: 39
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -263,7 +263,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: c97eb288a74420133aa53eee5f1dafd6
     internalID: 0
     vertices: []
     indices: 
@@ -271,7 +271,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Bad_attack_1_0: -3238491821634303061
       Bad_attack_1_1: 6624639157427659861
