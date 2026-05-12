@@ -18,6 +18,12 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D rb;
     private Animator animator;
 
+    // Animator parameter hashes for performance
+    private static readonly int SpeedHash = Animator.StringToHash("Speed");
+    private static readonly int IsGroundedHash = Animator.StringToHash("isGrounded");
+    private static readonly int IsAttackingHash = Animator.StringToHash("isAttacking");
+    private static readonly int ComboStepHash = Animator.StringToHash("comboStep");
+
     private float moveInput;
     private bool isGrounded;
     private bool facingRight = true;
@@ -35,15 +41,14 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        CheckGround();
-
-        if (!isAttacking)
-        {
-            HandleMovement();
-            HandleJump();
-        }
-
+        HandleMovementInput();
         HandleAttackInput();
+    }
+
+    void FixedUpdate()
+    {
+        CheckGround();
+        ApplyMovement();
     }
 
     void CheckGround()
@@ -54,30 +59,36 @@ public class PlayerMovement : MonoBehaviour
             groundLayer
         );
 
-        animator.SetBool("isGrounded", isGrounded);
+        animator.SetBool(IsGroundedHash, isGrounded);
     }
 
-    void HandleMovement()
+    void HandleMovementInput()
     {
-        moveInput = Input.GetAxisRaw("Horizontal");
-        float speed = Input.GetKey(KeyCode.LeftShift) ? runSpeed : walkSpeed;
+        if (isAttacking) 
+        {
+            moveInput = 0;
+            return;
+        }
 
+        moveInput = Input.GetAxisRaw("Horizontal");
+        
+        if (Input.GetButtonDown("Jump") && isGrounded)
+        {
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+        }
+    }
+
+    void ApplyMovement()
+    {
+        float speed = Input.GetKey(KeyCode.LeftShift) ? runSpeed : walkSpeed;
         rb.linearVelocity = new Vector2(moveInput * speed, rb.linearVelocity.y);
 
-        animator.SetFloat("Speed", Mathf.Abs(rb.linearVelocity.x));
+        animator.SetFloat(SpeedHash, Mathf.Abs(rb.linearVelocity.x));
 
         if (moveInput > 0 && !facingRight)
             Flip();
         else if (moveInput < 0 && facingRight)
             Flip();
-    }
-
-    void HandleJump()
-    {
-        if (Input.GetButtonDown("Jump") && isGrounded)
-        {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
-        }
     }
 
     void HandleAttackInput()
@@ -102,8 +113,8 @@ public class PlayerMovement : MonoBehaviour
         inputBuffered = false;
         canQueueNext = false;
 
-        animator.SetBool("isAttacking", true);
-        animator.SetInteger("comboStep", comboStep);
+        animator.SetBool(IsAttackingHash, true);
+        animator.SetInteger(ComboStepHash, comboStep);
     }
 
     // 🔓 Se llama desde Animation Event
@@ -127,7 +138,7 @@ public class PlayerMovement : MonoBehaviour
             inputBuffered = false;
             canQueueNext = false;
 
-            animator.SetInteger("comboStep", comboStep);
+            animator.SetInteger(ComboStepHash, comboStep);
         }
         else
         {
@@ -142,8 +153,8 @@ public class PlayerMovement : MonoBehaviour
         inputBuffered = false;
         canQueueNext = false;
 
-        animator.SetBool("isAttacking", false);
-        animator.SetInteger("comboStep", 0);
+        animator.SetBool(IsAttackingHash, false);
+        animator.SetInteger(ComboStepHash, 0);
     }
 
     void Flip()
