@@ -13,10 +13,15 @@ public class PlayerMovement : MonoBehaviour
     public LayerMask groundLayer;
 
     [Header("Combat")]
-    public int maxCombo = 2;
+    [SerializeField] private int maxCombo = 2;
+    [SerializeField] private float attackRange = 1.5f;
+    [SerializeField] private int attackDamage = 20;
+    [SerializeField] private Transform attackPoint;
+    [SerializeField] private LayerMask enemyLayer;
 
     private Rigidbody2D rb;
     private Animator animator;
+    private VidaPlayer vidaPlayer;
 
     // Animator parameter hashes for performance
     private static readonly int SpeedHash = Animator.StringToHash("Speed");
@@ -37,10 +42,13 @@ public class PlayerMovement : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        vidaPlayer = GetComponent<VidaPlayer>();
     }
 
     void Update()
     {
+        if (vidaPlayer != null && vidaPlayer.GetVidaActual() <= 0) return;
+
         HandleMovementInput();
         HandleAttackInput();
     }
@@ -115,6 +123,23 @@ public class PlayerMovement : MonoBehaviour
 
         animator.SetBool(IsAttackingHash, true);
         animator.SetInteger(ComboStepHash, comboStep);
+
+        // Se ha eliminado el llamado inmediato a PerformDamage() para usar Animation Events
+    }
+
+    public void PerformDamage()
+    {
+        if (attackPoint == null) return;
+
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayer);
+
+        foreach (Collider2D enemy in hitEnemies)
+        {
+            if (enemy.TryGetComponent(out VidaEnemigo enemyHealth))
+            {
+                enemyHealth.TomarDaño(attackDamage);
+            }
+        }
     }
 
     // 🔓 Se llama desde Animation Event
@@ -166,12 +191,18 @@ public class PlayerMovement : MonoBehaviour
         transform.localScale = scale;
     }
 
-    void OnDrawGizmosSelected()
+    void OnDrawGizmos()
     {
         if (groundCheck != null)
         {
             Gizmos.color = Color.red;
             Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
+        }
+
+        if (attackPoint != null)
+        {
+            Gizmos.color = Color.yellow;
+            Gizmos.DrawWireSphere(attackPoint.position, attackRange);
         }
     }
 }
