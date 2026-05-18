@@ -47,6 +47,12 @@ TagManager:
   - name: Ground
     uniqueID: 796914471
     locked: 0
+  - name: Ground2
+    uniqueID: 3026133847
+    locked: 0
+  - name: Tilemap
+    uniqueID: 3885880155
+    locked: 0
   - name: Player
     uniqueID: 3821256809
     locked: 0

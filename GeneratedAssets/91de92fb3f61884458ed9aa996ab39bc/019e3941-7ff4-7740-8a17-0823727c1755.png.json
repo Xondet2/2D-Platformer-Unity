@@ -1,0 +1,28 @@
+{
+    "asset": "91de92fb3f61884458ed9aa996ab39bc",
+    "fileName": "019e3941-7ff4-7740-8a17-0823727c1755.png",
+    "prompt": "Create a pixel art castle tileset sprite sheet for a 2D platformer game.\r\n\r\nRequirements:\r\n- Each tile must be designed for exactly 32x32 pixels.\r\n- Transparent background.\r\n- No spacing or padding between tiles.\r\n- Seamless tilemap.\r\n- Pixel-perfect sharp edges.\r\n- Medieval gothic castle style.\r\n- Dark fantasy atmosphere.\r\n- Brick floor and brick walls.\r\n- Stone platforms.\r\n- Interior castle environment.\r\n- Include stair tiles and diagonal stair slopes.\r\n- Include flat floor tiles.\r\n- Include left and right edge tiles.\r\n- Include inner and outer corner tiles.\r\n- Include wall connection tiles.\r\n- Include ceiling tiles.\r\n- Include platform variations.\r\n- Include ramp tiles.\r\n- Include support columns.\r\n- Include decorative stone blocks.\r\n- Dark blue and purple shadows.\r\n- Gray stone and reddish brick details.\r\n- High quality pixel art.\r\n- Sprite sheet layout aligned perfectly to a 32x32 grid.\r\n- All tiles must fit exactly into individual 32x32 cells.\r\n- Suitable for Unity Tile Palette.\r\n\r\nVisual references:\r\nC",
+    "negativePrompt": "",
+    "model": "flux-2-dev",
+    "modelName": "Flux 2 (Dev)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}
