@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 03cd8cfca15ad034ca2d9ede71d60e89
+guid: c64a37cc62166dd4fb62bb4f077b16b7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8523185539337237809
-    second: ChatGPT Image May 15, 2026, 07_05_55 PM_0
+      213: -2299096941505295255
+    second: Ruinas_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ChatGPT Image May 15, 2026, 07_05_55 PM_0
+      name: Ruinas_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 2172
-        height: 620
+        height: 724
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fcace05e8ef87b980800000000000000
-      internalID: -8523185539337237809
+      spriteID: 96cc3694387f710e0800000000000000
+      internalID: -2299096941505295255
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ChatGPT Image May 15, 2026, 07_05_55 PM_0: -8523185539337237809
+      Ruinas_0: -2299096941505295255
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
