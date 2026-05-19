@@ -19,6 +19,11 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Transform attackPoint;
     [SerializeField] private LayerMask enemyLayer;
 
+    [Header("Knockback")]
+    public float knockbackForce = 10f;
+    public float knockbackDuration = 0.2f;
+    private bool isKnockedBack = false;
+
     private Rigidbody2D rb;
     private Animator animator;
     private VidaPlayer vidaPlayer;
@@ -28,6 +33,7 @@ public class PlayerMovement : MonoBehaviour
     private static readonly int IsGroundedHash = Animator.StringToHash("isGrounded");
     private static readonly int IsAttackingHash = Animator.StringToHash("isAttacking");
     private static readonly int ComboStepHash = Animator.StringToHash("comboStep");
+    private static readonly int HurtHash = Animator.StringToHash("Hurt");
 
     private float moveInput;
     private bool isGrounded;
@@ -48,6 +54,7 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         if (vidaPlayer != null && vidaPlayer.GetVidaActual() <= 0) return;
+        if (isKnockedBack) return;
 
         HandleMovementInput();
         HandleAttackInput();
@@ -56,7 +63,32 @@ public class PlayerMovement : MonoBehaviour
     void FixedUpdate()
     {
         CheckGround();
-        ApplyMovement();
+        if (!isKnockedBack)
+        {
+            ApplyMovement();
+        }
+    }
+
+    public void AplicarKnockback(Vector2 posicionDaño)
+    {
+        if (isKnockedBack) return;
+
+        isKnockedBack = true;
+        animator.SetTrigger(HurtHash);
+
+        Vector2 direccion = ((Vector2)transform.position - posicionDaño).normalized;
+        // Si están en la misma posición exacta, empujar hacia arriba
+        if (direccion == Vector2.zero) direccion = Vector2.up;
+
+        rb.linearVelocity = Vector2.zero;
+        rb.AddForce(direccion * knockbackForce, ForceMode2D.Impulse);
+
+        Invoke(nameof(ResetKnockback), knockbackDuration);
+    }
+
+    private void ResetKnockback()
+    {
+        isKnockedBack = false;
     }
 
     void CheckGround()
@@ -137,7 +169,7 @@ public class PlayerMovement : MonoBehaviour
         {
             if (enemy.TryGetComponent(out VidaEnemigo enemyHealth))
             {
-                enemyHealth.TomarDaño(attackDamage);
+                enemyHealth.TomarDaño(attackDamage, transform.position);
             }
         }
     }

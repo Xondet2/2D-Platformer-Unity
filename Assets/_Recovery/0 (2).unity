@@ -6772,7 +6772,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 7.200293
+  orthographic size: 5.34375
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -7114,6 +7114,15 @@ MonoBehaviour:
   puntosPatrulla:
   - {fileID: 153805593}
   - {fileID: 1154997289}
+  "da\xF1oDeContacto": 10
+  tiempoEntreAtaques: 1
+  rangoAtaque: 1.5
+  rangoDeteccion: 3
+  capaJugador:
+    serializedVersion: 2
+    m_Bits: 1
+  knockbackForce: 5
+  knockbackDuration: 0.2
   detectorSuelo: {fileID: 1726298005}
   distanciaDeteccion: 0.5
   capaSuelo:
@@ -8507,6 +8516,8 @@ MonoBehaviour:
   enemyLayer:
     serializedVersion: 2
     m_Bits: 64
+  knockbackForce: 10
+  knockbackDuration: 0.2
 --- !u!61 &1915587344
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8789,7 +8800,11 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 =======
   vidaActual: 20
+<<<<<<< Updated upstream:Assets/_Recovery/0 (2).unity
 >>>>>>> 277c2fe2df7e36489ca90602cb3c7755bde55b77:Assets/Scenes/Nivel5.unity
+=======
+  tiempoInvulnerabilidad: 1
+>>>>>>> Stashed changes:Assets/Scenes/Nivel5.unity
 --- !u!1 &2106587450
 GameObject:
   m_ObjectHideFlags: 0

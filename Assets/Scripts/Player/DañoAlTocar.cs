@@ -7,25 +7,34 @@ public class DañoAlTocar : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-        // Solo procesar si el objeto está en la capa objetivo (ej. Player)
-        if (((1 << collision.gameObject.layer) & capaObjetivo) != 0)
-        {
-            Debug.Log("Goblin tocó al OBJETIVO: " + collision.gameObject.name);
-            if (collision.TryGetComponent(out VidaPlayer vidaPlayer))
-            {
-                vidaPlayer.TomarDaño(dañoPorToque);
-            }
-        }
+        ProcesarDaño(collision.gameObject);
+    }
+
+    void OnTriggerStay2D(Collider2D collision)
+    {
+        ProcesarDaño(collision.gameObject);
     }
 
     void OnCollisionEnter2D(Collision2D collision)
     {
-        if (((1 << collision.gameObject.layer) & capaObjetivo) != 0)
+        ProcesarDaño(collision.gameObject);
+    }
+
+    void OnCollisionStay2D(Collision2D collision)
+    {
+        ProcesarDaño(collision.gameObject);
+    }
+
+    private void ProcesarDaño(GameObject objeto)
+    {
+        // Solo procesar si el objeto está en la capa objetivo (ej. Player)
+        if (((1 << objeto.layer) & capaObjetivo) != 0)
         {
-            Debug.Log("Goblin chocó con el OBJETIVO: " + collision.gameObject.name);
-            if (collision.collider.TryGetComponent(out VidaPlayer vidaPlayer))
+            VidaPlayer vidaPlayer = objeto.GetComponentInParent<VidaPlayer>();
+            if (vidaPlayer != null)
             {
-                vidaPlayer.TomarDaño(dañoPorToque);
+                Debug.Log($"Objeto dañino ({gameObject.name}) tocó al jugador. Daño: {dañoPorToque}");
+                vidaPlayer.TomarDaño(dañoPorToque, transform.position);
             }
         }
     }
