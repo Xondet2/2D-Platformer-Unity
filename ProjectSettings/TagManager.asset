@@ -59,6 +59,9 @@ TagManager:
   - name: Enemigo
     uniqueID: 3558470411
     locked: 0
+  - name: Escaleras
+    uniqueID: 168816349
+    locked: 0
   - name: Player
     uniqueID: 3821256809
     locked: 0
