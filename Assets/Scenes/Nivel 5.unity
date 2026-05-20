@@ -3472,6 +3472,7 @@ MonoBehaviour:
   knockbackForce: 10
   knockbackDuration: 0.2
   jumpSound: {fileID: 8300000, guid: 57a28f486967fad45bcb702d80309738, type: 3}
+  walkSound: {fileID: 8300000, guid: bc77972f31d1c7743b7f51e2c27eb478, type: 3}
 --- !u!61 &1915587344
 BoxCollider2D:
   m_ObjectHideFlags: 0

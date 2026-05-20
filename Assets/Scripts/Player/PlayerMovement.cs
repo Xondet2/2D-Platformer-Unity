@@ -26,6 +26,7 @@ public class PlayerMovement : MonoBehaviour
 
     [Header("Audio")]
     public AudioClip jumpSound;
+    public AudioClip walkSound;
     private AudioSource audioSource;
 
     private Rigidbody2D rb;
@@ -137,6 +138,24 @@ public class PlayerMovement : MonoBehaviour
         rb.linearVelocity = new Vector2(moveInput * speed, rb.linearVelocity.y);
 
         animator.SetFloat(SpeedHash, Mathf.Abs(rb.linearVelocity.x));
+
+        // Reproducir sonido de pasos
+        if (Mathf.Abs(moveInput) > 0 && isGrounded)
+        {
+            if (!audioSource.isPlaying || audioSource.clip != walkSound)
+            {
+                audioSource.clip = walkSound;
+                audioSource.loop = true;
+                audioSource.Play();
+            }
+        }
+        else
+        {
+            if (audioSource.isPlaying && audioSource.clip == walkSound)
+            {
+                audioSource.Stop();
+            }
+        }
 
         if (moveInput > 0 && !facingRight)
             Flip();
