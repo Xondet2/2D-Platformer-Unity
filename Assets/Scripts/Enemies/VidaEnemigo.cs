@@ -18,12 +18,8 @@ public class VidaEnemigo : MonoBehaviour
     {
         if (vidaActual <= 0) return;
 
-        Debug.Log($"{gameObject.name} recibe {cantidadDeDaño} de daño. Vida antes: {vidaActual}");
-
         vidaActual -= cantidadDeDaño;
         vidaActual = Mathf.Clamp(vidaActual, 0, vidaMaxima);
-
-        Debug.Log($"{gameObject.name} vida después: {vidaActual}");
 
         if (animator != null)
         {
