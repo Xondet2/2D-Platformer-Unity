@@ -24,6 +24,10 @@ public class PlayerMovement : MonoBehaviour
     public float knockbackDuration = 0.2f;
     private bool isKnockedBack = false;
 
+    [Header("Audio")]
+    public AudioClip jumpSound;
+    private AudioSource audioSource;
+
     private Rigidbody2D rb;
     private Animator animator;
     private VidaPlayer vidaPlayer;
@@ -49,6 +53,7 @@ public class PlayerMovement : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         vidaPlayer = GetComponent<VidaPlayer>();
+        audioSource = GetComponent<AudioSource>();
     }
 
     void Update()
@@ -116,6 +121,12 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+            
+            // Reproducir sonido de salto
+            if (jumpSound != null && audioSource != null)
+            {
+                audioSource.PlayOneShot(jumpSound);
+            }
         }
     }
 
