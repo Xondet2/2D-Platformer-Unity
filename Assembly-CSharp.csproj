@@ -58,6 +58,7 @@
     <Compile Include="Assets/Scripts/Player/VidaPlayer.cs" />
     <Compile Include="Assets/Scripts/Player/BarraDeVidaUI.cs" />
     <Compile Include="Assets/Scripts/Enemies/MovementGoodEllf.cs" />
+    <Compile Include="Assets/Scripts/Objects/CajaDestructible.cs" />
     <Compile Include="Assets/Scripts/Player/CurarAlTocar.cs" />
     <Compile Include="Assets/Scripts/Player/DañoAlTocar.cs" />
     <Compile Include="Assets/Scripts/Player/InventarioPlayer.cs" />

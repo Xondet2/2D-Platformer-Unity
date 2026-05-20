@@ -41,9 +41,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Items
-    uniqueID: 2548470411
-    locked: 0
   - name: Background
     uniqueID: 135725349
     locked: 0
@@ -55,6 +52,9 @@ TagManager:
     locked: 0
   - name: Tilemap
     uniqueID: 3885880155
+    locked: 0
+  - name: Items
+    uniqueID: 2548470411
     locked: 0
   - name: Enemigo
     uniqueID: 3558470411
