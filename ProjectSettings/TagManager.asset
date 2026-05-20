@@ -11,7 +11,7 @@ TagManager:
   - Ground
   - Water
   - UI
-  - Enemies
+  - Enemigos
   - 
   - 
   - 
@@ -52,6 +52,9 @@ TagManager:
     locked: 0
   - name: Tilemap
     uniqueID: 3885880155
+    locked: 0
+  - name: Enemigo
+    uniqueID: 3558470411
     locked: 0
   - name: Player
     uniqueID: 3821256809

@@ -28,7 +28,7 @@ public class PlayerMovement : MonoBehaviour
     private Animator animator;
     private VidaPlayer vidaPlayer;
 
-    // Animator parameter hashes for performance
+    // Animator parameter hashes
     private static readonly int SpeedHash = Animator.StringToHash("Speed");
     private static readonly int IsGroundedHash = Animator.StringToHash("isGrounded");
     private static readonly int IsAttackingHash = Animator.StringToHash("isAttacking");
@@ -63,6 +63,7 @@ public class PlayerMovement : MonoBehaviour
     void FixedUpdate()
     {
         CheckGround();
+
         if (!isKnockedBack)
         {
             ApplyMovement();
@@ -77,8 +78,8 @@ public class PlayerMovement : MonoBehaviour
         animator.SetTrigger(HurtHash);
 
         Vector2 direccion = ((Vector2)transform.position - posicionDaño).normalized;
-        // Si están en la misma posición exacta, empujar hacia arriba
-        if (direccion == Vector2.zero) direccion = Vector2.up;
+        if (direccion == Vector2.zero)
+            direccion = Vector2.up;
 
         rb.linearVelocity = Vector2.zero;
         rb.AddForce(direccion * knockbackForce, ForceMode2D.Impulse);
@@ -104,14 +105,14 @@ public class PlayerMovement : MonoBehaviour
 
     void HandleMovementInput()
     {
-        if (isAttacking) 
+        if (isAttacking)
         {
             moveInput = 0;
             return;
         }
 
         moveInput = Input.GetAxisRaw("Horizontal");
-        
+
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
@@ -121,6 +122,7 @@ public class PlayerMovement : MonoBehaviour
     void ApplyMovement()
     {
         float speed = Input.GetKey(KeyCode.LeftShift) ? runSpeed : walkSpeed;
+
         rb.linearVelocity = new Vector2(moveInput * speed, rb.linearVelocity.y);
 
         animator.SetFloat(SpeedHash, Mathf.Abs(rb.linearVelocity.x));
@@ -155,38 +157,42 @@ public class PlayerMovement : MonoBehaviour
 
         animator.SetBool(IsAttackingHash, true);
         animator.SetInteger(ComboStepHash, comboStep);
-
-        // Se ha eliminado el llamado inmediato a PerformDamage() para usar Animation Events
     }
 
+    // 🔥 CORREGIDO: ya no depende de VidaEnemigo
     public void PerformDamage()
     {
         if (attackPoint == null) return;
 
-        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayer);
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(
+            attackPoint.position,
+            attackRange,
+            enemyLayer
+        );
 
         foreach (Collider2D enemy in hitEnemies)
         {
-            if (enemy.TryGetComponent(out VidaEnemigo enemyHealth))
-            {
-                enemyHealth.TomarDaño(attackDamage, transform.position);
-            }
+            enemy.SendMessage(
+                "TomarDaño",
+                attackDamage,
+                SendMessageOptions.DontRequireReceiver
+            );
         }
     }
 
-    // 🔓 Se llama desde Animation Event
+    // 🔓 Animation Event
     public void OpenComboWindow()
     {
         canQueueNext = true;
     }
 
-    // 🔒 Se llama desde Animation Event
+    // 🔒 Animation Event
     public void CloseComboWindow()
     {
         canQueueNext = false;
     }
 
-    // 🛑 Se llama al FINAL de CADA animación de ataque
+    // 🛑 Animation Event al final del ataque
     public void EndAttack()
     {
         if (inputBuffered && comboStep < maxCombo)
