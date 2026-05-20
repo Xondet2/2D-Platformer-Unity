@@ -5361,7 +5361,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -27.082693, y: 14.10717, z: -20.27}
+  m_LocalPosition: {x: -27.089201, y: 14.10717, z: -20.27}
   m_LocalScale: {x: -2.72, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -9686,6 +9686,8 @@ GameObject:
   - component: {fileID: 1252015247}
   - component: {fileID: 1252015246}
   - component: {fileID: 1252015245}
+  - component: {fileID: 1252015248}
+  - component: {fileID: 1252015249}
   m_Layer: 6
   m_Name: Goblin
   m_TagString: Untagged
@@ -9702,7 +9704,7 @@ Transform:
   m_GameObject: {fileID: 1252015243}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.07, y: 13.04, z: 0}
+  m_LocalPosition: {x: -12.404, y: 9.886, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -9769,14 +9771,14 @@ BoxCollider2D:
   m_Offset: {x: 0, y: 0.47}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
+    pivot: {x: 0.5, y: 0}
+    oldSize: {x: 0.90625, y: 0.90625}
+    newSize: {x: 0.90625, y: 0.90625}
+    adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.52, y: 0.89}
   m_EdgeRadius: 0
 --- !u!50 &1252015247
 Rigidbody2D:
@@ -9805,6 +9807,45 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 4
+--- !u!114 &1252015248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1252015243}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2b0b234688d36995925787824c2f955, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MovimientoEnemigo
+  rb2D: {fileID: 1252015247}
+  animator: {fileID: 1252015245}
+  estadoActual: 1
+  velocidadDeMovimientoActual: -1.5
+  ultimaVelocidadDeMovimiento: 0
+  controladorFrente: {fileID: 323382397}
+  distanciaRayoFrente: 0.5
+  capasSuelo:
+    serializedVersion: 2
+    m_Bits: 8
+  tiempoAEsperar: 2
+--- !u!114 &1252015249
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1252015243}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64b5e9da03ab75bccac1c136cd7d06b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::VidaEnemigo
+  vidaMaxima: 20
+  vidaActual: 20
+  animator: {fileID: 1252015245}
+  movimientoEnemigo: {fileID: 1252015248}
 --- !u!1 &1261153519
 GameObject:
   m_ObjectHideFlags: 0
@@ -26148,12 +26189,12 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   maxCombo: 3
-  attackRange: 1.5
-  attackDamage: 20
-  attackPoint: {fileID: 0}
+  attackRange: 0.6
+  attackDamage: 2
+  attackPoint: {fileID: 1937672788}
   enemyLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
   knockbackForce: 10
   knockbackDuration: 0.2
 --- !u!61 &1915587344
@@ -26244,6 +26285,7 @@ Transform:
   m_Children:
   - {fileID: 1460056176}
   - {fileID: 2106587451}
+  - {fileID: 1937672788}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: -42.83, y: 0, z: 0}
 --- !u!95 &1915587348
@@ -26465,6 +26507,37 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!1 &1937672787
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1937672788}
+  m_Layer: 0
+  m_Name: AttackPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1937672788
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1937672787}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.3, y: 1.54, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1915587347}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1940450771
 GameObject:
   m_ObjectHideFlags: 0

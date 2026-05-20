@@ -137,12 +137,14 @@ public class PlayerMovement : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
+            Debug.Log("Click detectado (Mouse 0)");
             if (!isAttacking)
             {
                 StartAttack();
             }
             else if (canQueueNext)
             {
+                Debug.Log("Ataque buffereado");
                 inputBuffered = true;
             }
         }
@@ -150,6 +152,7 @@ public class PlayerMovement : MonoBehaviour
 
     void StartAttack()
     {
+        Debug.Log("Iniciando ataque: StartAttack()");
         isAttacking = true;
         comboStep = 1;
         inputBuffered = false;
@@ -162,7 +165,12 @@ public class PlayerMovement : MonoBehaviour
     // 🔥 CORREGIDO: ya no depende de VidaEnemigo
     public void PerformDamage()
     {
-        if (attackPoint == null) return;
+        Debug.Log("PerformDamage() llamado por evento de animación");
+        if (attackPoint == null)
+        {
+            Debug.LogError("Error: attackPoint no está asignado en el Inspector de PlayerMovement");
+            return;
+        }
 
         Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(
             attackPoint.position,
@@ -170,8 +178,11 @@ public class PlayerMovement : MonoBehaviour
             enemyLayer
         );
 
+        Debug.Log($"Ataque realizado. Enemigos detectados en capa {enemyLayer.value}: {hitEnemies.Length}");
+
         foreach (Collider2D enemy in hitEnemies)
         {
+            Debug.Log($"Dañando a: {enemy.name}");
             enemy.SendMessage(
                 "TomarDaño",
                 attackDamage,

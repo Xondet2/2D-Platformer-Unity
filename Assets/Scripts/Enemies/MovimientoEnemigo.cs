@@ -82,6 +82,14 @@ public class MovimientoEnemigo : MonoBehaviour
         }
     }
 
+    public void DesactivarMovimiento()
+    {
+        estadoActual = EstadosEnemigo.Muerte;
+        rb2D.linearVelocity = Vector2.zero;
+        rb2D.bodyType = RigidbodyType2D.Static; // Opcional: para que no caiga ni se mueva
+        this.enabled = false;
+    }
+
     private void MirarEnDireccionDelMovimiento()
     {
         if ((velocidadDeMovimientoActual > 0 && !MirandoALaDerecha()) || (velocidadDeMovimientoActual < 0 && MirandoALaDerecha()))
