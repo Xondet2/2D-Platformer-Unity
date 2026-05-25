@@ -6,11 +6,13 @@ public class PlayerMovement : MonoBehaviour
     public float walkSpeed = 6f;
     public float runSpeed = 12f;
     public float jumpForce = 16f;
+    public float climbSpeed = 5f;
 
     [Header("Ground Check")]
     public Transform groundCheck;
     public float groundCheckRadius = 0.4f;
     public LayerMask groundLayer;
+    public LayerMask ladderLayer;
 
     [Header("Combat")]
     [SerializeField] private int maxCombo = 2;
@@ -36,12 +38,17 @@ public class PlayerMovement : MonoBehaviour
     // Animator parameter hashes
     private static readonly int SpeedHash = Animator.StringToHash("Speed");
     private static readonly int IsGroundedHash = Animator.StringToHash("isGrounded");
+    private static readonly int IsClimbingHash = Animator.StringToHash("isClimbing");
+    private static readonly int VerticalSpeedHash = Animator.StringToHash("verticalSpeed");
     private static readonly int IsAttackingHash = Animator.StringToHash("isAttacking");
     private static readonly int ComboStepHash = Animator.StringToHash("comboStep");
     private static readonly int HurtHash = Animator.StringToHash("Hurt");
 
     private float moveInput;
+    private float verticalInput;
     private bool isGrounded;
+    private bool isClimbing;
+    private float initialGravityScale;
     private bool facingRight = true;
 
     private int comboStep = 0;
@@ -54,6 +61,7 @@ public class PlayerMovement : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         vidaPlayer = GetComponent<VidaPlayer>();
+        initialGravityScale = rb.gravityScale;
         audioSource = GetComponent<AudioSource>();
     }
 
@@ -69,10 +77,71 @@ public class PlayerMovement : MonoBehaviour
     void FixedUpdate()
     {
         CheckGround();
+        CheckLadder();
 
         if (!isKnockedBack)
         {
             ApplyMovement();
+        }
+    }
+
+    void CheckLadder()
+    {
+        // Esta función se mantiene para actualizar el Animator y la gravedad basada en isClimbing
+        if (isClimbing)
+        {
+            rb.gravityScale = 0f;
+            if (verticalInput == 0)
+            {
+                rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0);
+            }
+        }
+        else
+        {
+            rb.gravityScale = initialGravityScale;
+        }
+
+        animator.SetBool(IsClimbingHash, isClimbing);
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (((1 << other.gameObject.layer) & ladderLayer) != 0)
+        {
+            isClimbing = true;
+            Debug.Log("¡ENTRÓ en la escalera!");
+            SetGroundCollision(true);
+        }
+    }
+
+    private void OnTriggerStay2D(Collider2D other)
+    {
+        if (((1 << other.gameObject.layer) & ladderLayer) != 0)
+        {
+            isClimbing = true;
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        if (((1 << other.gameObject.layer) & ladderLayer) != 0)
+        {
+            isClimbing = false;
+            Debug.Log("¡SALIÓ de la escalera!");
+            SetGroundCollision(false);
+        }
+    }
+
+    private void SetGroundCollision(bool ignore)
+    {
+        int playerLayer = gameObject.layer;
+        // Recorremos todas las capas para encontrar las que están en groundLayer
+        for (int i = 0; i < 32; i++)
+        {
+            if ((groundLayer.value & (1 << i)) != 0)
+            {
+                Physics2D.IgnoreLayerCollision(playerLayer, i, ignore);
+            }
         }
     }
 
@@ -114,12 +183,14 @@ public class PlayerMovement : MonoBehaviour
         if (isAttacking)
         {
             moveInput = 0;
+            verticalInput = 0;
             return;
         }
 
         moveInput = Input.GetAxisRaw("Horizontal");
+        verticalInput = Input.GetAxisRaw("Vertical");
 
-        if (Input.GetButtonDown("Jump") && isGrounded)
+        if (Input.GetButtonDown("Jump") && isGrounded && !isClimbing)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
             
@@ -133,9 +204,17 @@ public class PlayerMovement : MonoBehaviour
 
     void ApplyMovement()
     {
-        float speed = Input.GetKey(KeyCode.LeftShift) ? runSpeed : walkSpeed;
-
-        rb.linearVelocity = new Vector2(moveInput * speed, rb.linearVelocity.y);
+        if (isClimbing)
+        {
+            rb.linearVelocity = new Vector2(moveInput * walkSpeed, verticalInput * climbSpeed);
+            animator.SetFloat(VerticalSpeedHash, Mathf.Abs(rb.linearVelocity.y));
+        }
+        else
+        {
+            float speed = Input.GetKey(KeyCode.LeftShift) ? runSpeed : walkSpeed;
+            rb.linearVelocity = new Vector2(moveInput * speed, rb.linearVelocity.y);
+            animator.SetFloat(VerticalSpeedHash, 0);
+        }
 
         animator.SetFloat(SpeedHash, Mathf.Abs(rb.linearVelocity.x));
 
@@ -272,5 +351,9 @@ public class PlayerMovement : MonoBehaviour
             Gizmos.color = Color.yellow;
             Gizmos.DrawWireSphere(attackPoint.position, attackRange);
         }
+
+        // Dibujamos el radio de detección de escaleras (Verde)
+        Gizmos.color = Color.green;
+        Gizmos.DrawWireSphere(transform.position, 0.5f);
     }
 }

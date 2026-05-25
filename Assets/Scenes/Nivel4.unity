@@ -9209,6 +9209,7 @@ GameObject:
   - component: {fileID: 1915587349}
   - component: {fileID: 1915587350}
   - component: {fileID: 1915587351}
+  - component: {fileID: 1915587352}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -9231,11 +9232,15 @@ MonoBehaviour:
   walkSpeed: 6
   runSpeed: 12
   jumpForce: 16
+  climbSpeed: 5
   groundCheck: {fileID: 1460056176}
   groundCheckRadius: 0.5
   groundLayer:
     serializedVersion: 2
     m_Bits: 8
+  ladderLayer:
+    serializedVersion: 2
+    m_Bits: 0
   maxCombo: 3
   attackRange: 1.5
   attackDamage: 20
@@ -9373,6 +9378,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::VidaJugador
   vidaMaxima: 20
   vidaActual: 0
+  tiempoRetrasoDestruccion: 1
 --- !u!82 &1915587350
 AudioSource:
   m_ObjectHideFlags: 0
@@ -9485,6 +9491,23 @@ MonoBehaviour:
   cantidadLlaves: 0
   monedas: 0
   gemas: 0
+--- !u!114 &1915587352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1915587342}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eaa02e02e22f0faa1afc581af5d1f1ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::VidaPlayerAnimator
+  animator: {fileID: 1915587348}
+  vidaPlayer: {fileID: 1915587349}
+  triggerDano: Hurt
+  triggerMuerte: Die
+  boolMuerte: isDead
 --- !u!1 &1979650952
 GameObject:
   m_ObjectHideFlags: 0

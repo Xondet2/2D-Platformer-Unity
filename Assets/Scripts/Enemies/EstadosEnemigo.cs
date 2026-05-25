@@ -4,5 +4,6 @@ public enum EstadosEnemigo
 {
     Correr,
     Esperar,
-    Muerte
+    Muerte,
+    Atacar
 }

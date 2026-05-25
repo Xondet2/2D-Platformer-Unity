@@ -8,6 +8,7 @@ public class VidaPlayer : MonoBehaviour
 
     [SerializeField] private int vidaMaxima;
     [SerializeField] private int vidaActual;
+    [SerializeField] private float tiempoRetrasoDestruccion = 1.0f;
 
     private void Awake()
     {
@@ -32,7 +33,7 @@ public class VidaPlayer : MonoBehaviour
 
     private void DestruirPlayer()
     {
-        Destroy(gameObject);
+        Destroy(gameObject, tiempoRetrasoDestruccion);
     }
 
     public void CurarVida(int curacion)
